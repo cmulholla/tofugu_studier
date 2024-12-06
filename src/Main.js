@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import CSVReader from 'react-csv-reader';
 import { Link } from 'react-router-dom';
 
+//TODO: Replace clicking on tag links with checkboxes to the left of the tags, and a button to submit the selected tags to the next page
+
 function Main({setStudySet, studySet}) {
   const [tags, setTags] = useState([]);
   const [tagData, setTagData] = useState([]);

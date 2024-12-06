@@ -20,6 +20,7 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
   }, [data, setStudySet]);
 
   // find which column the tag is in
+  // TODO: instead of assuming a single tag, accept an array of tags
   let tagIndex = -1;
   for (let i = 0; i < data[0].length; i++) {
     if (data[0][i] === 'tags') {
@@ -29,6 +30,7 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
   }
 
   // find the rows in the tag column that contain the tag, and store them in taggedData
+  // TODO: instead of assuming a single tag, accept an array of tags
   let taggedData = [];
   for (let i = 1; i < data.length; i++) {
     if (data[i][tagIndex] === undefined) {
@@ -76,7 +78,7 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
     <div>
       <h1>Tag: {tag}</h1>
       <Link to={`/quiz/${tag}`} disabled={!isQuizReady}>
-        <button type="button">
+        <button disabled={!isQuizReady} type="button">
           Start Quiz
         </button>
       </Link>
