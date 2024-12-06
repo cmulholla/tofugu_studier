@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter, Route, Routes } from "react-router-dom";
+import React, { useState } from 'react';
+import SelectOptions from './SelectOptions';
+import Main from './Main';
+import Quiz from './Quiz';
 
 function App() {
+  const [studySet, setStudySet] = useState([]);
+  const [quizOptions, setQuizOptions] = useState([]);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="" element={<Main setStudySet={setStudySet} studySet={studySet}/>} />
+        <Route path="tag/:tag" element={<SelectOptions setQuizOptions={setQuizOptions} setStudySet={setStudySet} data={studySet}/>} />
+        <Route path="quiz/:tag" element={<Quiz data={studySet} quizOptions={quizOptions}/>} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 
