@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Tofugu Studier",
+  "name": "Tofugu-like Japanese Studier",
   "icons": [
     {
       "src": "favicon.ico",

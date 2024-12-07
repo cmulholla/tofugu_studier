@@ -5,7 +5,7 @@ const QuizNode = (({ Question, Answer, quizOptions, Answers, SetAnswers}) => {
   // Answers is a dictionary, where the key is the question, and the value is an array of [the real answer, the user's answer]
   const [correctClass, setCorrectClass] = useState("notAnswered");
 
-  const punctuation = /[.,/#!$%^&*;:{}=\-_`~()'"]/g;
+  const punctuation = /[.,/#!$%^&*;:{}=\-_`~()'"・、。！？「」『』（）［］｛｝〈〉《》【】〔〕]/g;
 
   // check if the user's answer is correct, using the quizOptions
   function checkAnswer(userAnswer, realAnswer) {

@@ -100,6 +100,10 @@ function Quiz({ data, quizOptions, SetAnswers }) {
     if (data[i][tagIndex] === undefined) {
       continue;
     }
+    // if any row has an empty cell in the frontIndex or backIndex, skip
+    if (data[i][frontIndex].replace(" ", "") === '' || data[i][backIndex].replace(" ", "") === '') {
+      continue;
+    }
     let elmTags = data[i][tagIndex].split(" ");
     if (elmTags.includes(tag)) {
       taggedData.push(data[i]);

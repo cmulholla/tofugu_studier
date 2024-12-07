@@ -1,5 +1,17 @@
 import React/*, { useState }*/ from 'react';
 import { useParams } from 'react-router-dom';
+import Table from 'react-bootstrap/Table';
+
+const styles = `
+  td.correct {
+    border-color: #a3e4a1;
+    background-color: #a3e4a1;
+  }
+  td.incorrect {
+    border-color: #ff9999;
+    background-color: #ff9999;
+  }
+`;
 
 function QuizResults({ data, quizOptions, Answers}) {
 
@@ -10,7 +22,7 @@ function QuizResults({ data, quizOptions, Answers}) {
   //console.log(quizOptions);
   console.log(Answers);
 
-  const punctuation = /[.,/#!$%^&*;:{}=\-_`~()'"]/g;
+  const punctuation = /[.,/#!$%^&*;:{}=\-_`~()'"・、。！？「」『』（）［］｛｝〈〉《》【】〔〕]/g;
 
   // check if the user's answer is correct, using the quizOptions
   function checkAnswer(userAnswer, realAnswer) {
@@ -95,11 +107,20 @@ function QuizResults({ data, quizOptions, Answers}) {
     if (data[i][tagIndex] === undefined) {
       continue;
     }
+    // if any row has an empty cell in the frontIndex or backIndex, skip
+    if (data[i][frontIndex].replace(" ", "") === '' || data[i][backIndex].replace(" ", "") === '') {
+      continue;
+    }
     let elmTags = data[i][tagIndex].split(" ");
     if (elmTags.includes(tag)) {
       taggedData.push(data[i]);
     }
   }
+
+  // Caculate the results of the quiz
+  let percentage = 0;
+  let numCorrect = 0;
+  let numTotal = 0;
 
   // create a table, where the first column is the front, the second column is the back, the third column is the user's answer, and the fourth column is whether the user's answer is correct
   // if the user's answer is correct, the fourth column should be green, otherwise it should be red
@@ -120,22 +141,35 @@ function QuizResults({ data, quizOptions, Answers}) {
 
     if (isCorrect) {
       correctClass = "correct";
+      // increment numCorrect to calculate final score
+      numCorrect++;
     }
     else if (userAnswer !== undefined) {
       correctClass = "incorrect";
     }
+
+    // increment numTotal to calculate final score
+    numTotal++;
+
     results.push([taggedData[i][frontIndex], taggedData[i][backIndex], userAnswer, correctClass]);
   }
 
+  percentage = numTotal === 0 ? 0 : Math.round(numCorrect / numTotal * 100);
+
   return (
     <div>
-      <h1>Quiz Results</h1>
-
-      <table className="table table-striped table-bordered mt-3">
+      <style href={"stylesheet"} precedence="medium">
+          {styles}
+      </style>
+      <h1>Quiz Results:</h1>
+      <div style={{ display: 'flex', alignItems: 'center' }}>
+        <h3 style={{ marginRight: '5px' }}>{tag}: {numCorrect} out of {numTotal} ({percentage}%)</h3>
+      </div>
+      <Table striped bordered hover>
         <thead>
           <tr>
-            <th>Front</th>
-            <th>Back</th>
+            <th>Qustion</th>
+            <th>Answer</th>
             <th>User's Answer</th>
             <th>Correct?</th>
           </tr>
@@ -150,7 +184,7 @@ function QuizResults({ data, quizOptions, Answers}) {
             </tr>
           ))}
         </tbody>
-      </table>
+      </Table>
     </div>
   );
 }
