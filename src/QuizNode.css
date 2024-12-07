@@ -1,0 +1,35 @@
+div {
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+textarea {
+    min-width: 20ch;
+    min-height: 2ch;
+}
+
+.correct {
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-color: #52d327;
+}
+
+.incorrect {
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-color: #ff4d4d;
+}
+
+textarea.correct {
+    min-width: 20ch;
+    min-height: 2ch;
+    border-color: #52d327;
+    pointer-events: none;
+    opacity: 0.6;
+}

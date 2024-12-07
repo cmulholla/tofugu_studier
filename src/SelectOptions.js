@@ -56,6 +56,9 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
       quizOptions = quizOptions.filter(option => option[0] !== header);
       quizOptions.push([header, type]);
     }
+    if (quizOptions.includes('include partials') === false) {
+      quizOptions.push('include partials');
+    }
     //console.log(quizOptions);
     setQuizOptionsT(quizOptions);
     setQuizOptions(quizOptions);

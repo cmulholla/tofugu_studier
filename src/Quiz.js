@@ -1,9 +1,14 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useParams } from 'react-router-dom';
+import QuizNode from './QuizNode';
+import './Quiz.css';
 //import { Link } from 'react-router-dom';
 
 function Quiz({ data, quizOptions }) {
   const { tag } = useParams();
+
+  // Answers is a dictionary, where the key is the question, and the value is an array of [the real answer, the user's answer]
+  const [ Answers, SetAnswers ] = useState({});
 
   // if data is empty, go back to the main page
   if (data === undefined || data.length === 0) {
@@ -69,22 +74,16 @@ function Quiz({ data, quizOptions }) {
   return (
     <div>
       <h1>Quiz: {tag}</h1>
-      <table className="table">
-        <thead>
-          <tr>
-            <th>Front</th>
-            <th>Back</th>
-          </tr>
-        </thead>
-        <tbody>
-          {taggedData.map((row, index) => (
-            <tr key={index}>
-              <td>{row[frontIndex]}</td>
-              <td>{row[backIndex]}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
+      {taggedData.map((row, index) => (
+        <QuizNode
+        key={index}
+        Question={row[frontIndex]}
+        Answer={row[backIndex]}
+        quizOptions={quizOptions}
+        Answers={Answers}
+        SetAnswers={SetAnswers}
+      />
+      ))}
     </div>
   );
 }
