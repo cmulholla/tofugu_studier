@@ -59,6 +59,9 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
     if (quizOptions.includes('include partials') === false) {
       quizOptions.push('include partials');
     }
+    if (quizOptions.includes('ignore punctuation') === false) {
+      quizOptions.push('ignore punctuation');
+    }
     //console.log(quizOptions);
     setQuizOptionsT(quizOptions);
     setQuizOptions(quizOptions);

@@ -10,7 +10,7 @@ textarea {
     min-height: 2ch;
 }
 
-.correct {
+div.correct {
     border: 2px solid;
     padding: 10px;
     margin-bottom: 10px;
@@ -18,7 +18,7 @@ textarea {
     border-color: #52d327;
 }
 
-.incorrect {
+div.incorrect {
     border: 2px solid;
     padding: 10px;
     margin-bottom: 10px;
@@ -30,6 +30,4 @@ textarea.correct {
     min-width: 20ch;
     min-height: 2ch;
     border-color: #52d327;
-    pointer-events: none;
-    opacity: 0.6;
 }

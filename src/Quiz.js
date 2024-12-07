@@ -1,14 +1,49 @@
 import React, { useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import QuizNode from './QuizNode';
-import './Quiz.css';
 //import { Link } from 'react-router-dom';
 
-function Quiz({ data, quizOptions }) {
+const styles = `
+  div {
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  textarea {
+    min-width: 20ch;
+    min-height: 2ch;
+  }
+  div.correct {
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-color: #52d327;
+  }
+  div.incorrect {
+    border: 2px solid;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-color: #ff4d4d;
+  }
+  textarea.correct {
+    min-width: 20ch;
+    min-height: 2ch;
+    border-color: #52d327;
+  }
+  quizNode {
+    display: inline-block;
+    margin: 10px; /* Optional: Add some margin for spacing */
+  }
+`;
+
+function Quiz({ data, quizOptions, SetAnswers }) {
   const { tag } = useParams();
 
   // Answers is a dictionary, where the key is the question, and the value is an array of [the real answer, the user's answer]
-  const [ Answers, SetAnswers ] = useState({});
+  const [ Answers ] = useState({});
 
   // if data is empty, go back to the main page
   if (data === undefined || data.length === 0) {
@@ -72,7 +107,10 @@ function Quiz({ data, quizOptions }) {
   }
 
   return (
-    <div>
+    <>
+      <style href={"stylesheet"} precedence="medium">
+          {styles}
+      </style>
       <h1>Quiz: {tag}</h1>
       {taggedData.map((row, index) => (
         <QuizNode
@@ -84,7 +122,12 @@ function Quiz({ data, quizOptions }) {
         SetAnswers={SetAnswers}
       />
       ))}
-    </div>
+      <Link to={`/results/${tag}`}>
+        <button type="button">
+          Finish Quiz
+        </button>
+      </Link>
+    </>
   );
 }
 
