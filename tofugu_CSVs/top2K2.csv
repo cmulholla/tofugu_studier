@@ -1,0 +1,1001 @@
+Kanji,Reading,Definition,Sentence,Translation,tags
+それ,それ,"that, that one",それはとってもいい話だ。,That's a really nice story.,0-9 Pronoun
+一つ,ひとつ,one (thing),それを一つください。,Please give me one of those.,0-9 Noun
+一,いち,one,一から始めましょう。,Let's start from the beginning.,0-9 Noun
+二,に,two,その人には二回会った。,I met that person twice.,0-9 Noun
+二つ,ふたつ,two (things),ソフトクリームを二つください。,Please give me two ice cream cones.,0-9 Noun
+三,さん,three,彼女は三人の子供の母親だ。,She's the mother of three children.,0-9 Noun
+三つ,みっつ,three (things),コップを三つ買いました。,I bought three glasses.,0-9 Noun
+四つ,よっつ,four (things),私は腕時計を四つ持っています。,I have four wristwatches.,0-9 Noun
+四,し,four,四月に大学に入学しました。,I entered my university in April.,0-9 Noun
+これ,これ,"this, this one",これをください。,I'll have this please.,10-19 Noun
+四,よん,four,ハワイは四回目です。,This is my fourth trip to Hawaii.,10-19 Noun
+五つ,いつつ,five (things),桃を五つください。,"I'd like five peaches, please.",10-19 Noun
+五,ご,five,五人で旅行に行きました。,Five of us went on a trip.,10-19 Noun
+六つ,むっつ,six (things),息子は六つになりました。,My son turned six.,10-19 Noun
+六,ろく,six,彼には子供が六人います。,He has six children.,10-19 Noun
+七,なな,seven,バナナが七本あります。,There are seven bananas.,10-19 Noun
+七つ,ななつ,seven (things),この子は今年七つになります。,Our kid's turning seven this year.,10-19 Noun
+八,はち,eight,りんごを八個ください。,Please give me eight apples.,10-19 Noun
+八つ,やっつ,eight (things),あの家には時計が八つあります。,There are eight clocks in that house.,10-19 Noun
+なる,なる,become,彼は医者になりました。,He became a doctor.,20-29 Verb
+九,きゅう,nine,野球は九人で1チームです。,In baseball there are nine people on one team.,20-29 Noun
+九つ,ここのつ,nine (things),娘は明日九つになります。,My daughter's turning nine tomorrow.,20-29 Noun
+十,じゅう,ten,その子は指で十数えました。,The child counted to ten on her fingers.,20-29 Noun
+百,ひゃく,hundred,私の祖母は百才です。,My grandmother is 100 years old.,20-29 Noun
+千,せん,thousand,千円貸してください。,Please lend me 1000 yen.,20-29 Noun
+万,まん,ten thousand,この靴は1万円です。,These shoes are ten thousand yen.,20-29 Noun
+円,えん,circle,そこに大きな円を描いて。,Draw a big circle there.,20-29 Noun
+円,えん,yen,カレーライスは700円です。,The curry and rice is 700 yen.,20-29 Noun
+時,とき,time,時の経つのは早い。,Time passes by quickly.,20-29 Noun
+する,する,"do, make",友達と一緒に宿題をした。,I did my homework with a friend.,30-39 Verb
+時々,ときどき,sometimes,彼は時々遅刻します。,He's sometimes late.,30-39 Adverb
+日,にち,day,私たちは先月11日に結婚しました。,We got married last month on the 11th.,30-39 Noun
+六日,むいか,"six days, 6th of the month",六日前に日本に帰ってきました。,I came back to Japan six days ago.,30-39 Noun
+三日,みっか,"three days, 3rd of the month",手紙が届くのに三日かかりました。,It took three days for the letter to arrive.,30-39 Noun
+五日,いつか,"five days, 5th of the month",五月五日は祝日です,May 5th is a holiday.,30-39 Noun
+八日,ようか,"eight days, 8th of the month",八日からイギリスに行きます。,I go to England on the eighth.,30-39 Noun
+二十日,はつか,"20 days, 20th of the month",来月の二十日は弟の誕生日です。,The 20th of next month is my little brother's birthday.,30-39 Noun
+二日,ふつか,"two days, 2nd of the month",私は二日待った。,I waited two days.,30-39 Noun
+九日,ここのか,"nine days, 9th of the month",九日に荷物が届きます。,The package will arrive on the ninth.,30-39 Noun
+ところ,ところ,place,私は友達のところに泊まった。,I stayed at my friend's place for the night.,40-49 Noun
+一日,ついたち,1st of the month,来月の一日は空いていますか。,Are you free on the 1st of next month?,40-49 Noun
+十日,とおか,"ten days, 10th of the month",十日後に帰ります。,I'll come home in ten days.,40-49 Noun
+七日,なのか,"seven days, 7th of the month",先月の七日に孫が生まれました。,My grandchild was born on the seventh of last month.,40-49 Noun
+四日,よっか,"four days, 4th of the month",新学期は来月の四日からです。,The new school term starts on the fourth of next month.,40-49 Noun
+月,つき,moon,今夜は月がとてもきれいです。,The moon looks so beautiful tonight.,40-49 Noun
+水,みず,water,水を一杯ください。,Please give me a glass of water.,40-49 Noun
+金,かね,money,これはかなり金がかかった。,This cost quite a bit of money.,40-49 Noun
+日曜日,にちようび,Sunday,日曜日は海に行きました。,We went to the seaside on Sunday.,40-49 Noun
+土曜日,どようび,Saturday,土曜日の夜はクラブに行きます。,I'm going to a club Saturday night.,40-49 Noun
+やる,やる,do,一緒に宿題をやろう。,Let's do our homework together.,50-59 Verb
+金曜日,きんようび,Friday,金曜日の夜は友達と出かけます。,I go out with my friends on Friday nights.,50-59 Noun
+月曜日,げつようび,Monday,月曜日に会いましょう。,Let's meet on Monday.,50-59 Noun
+木曜日,もくようび,Thursday,木曜日は仕事が休みです。,Thursday is my day off work.,50-59 Noun
+曜日,ようび,day of the week,曜日を間違えました。,I got the day of the week wrong.,50-59 Noun
+火曜日,かようび,Tuesday,火曜日に会議があります。,There's a meeting on Tuesday.,50-59 Noun
+水曜日,すいようび,Wednesday,水曜日はバイトがあります。,I have a part-time job on Wednesdays.,50-59 Noun
+週,しゅう,week,その次の週は空いてますか。,Are you free the following week?,50-59 Noun
+年,とし,"year, age",新しい年が始まりました。,A new year has started.,50-59 Noun
+分かる,わかる,understand,質問の意味は分かりましたか。,Did you understand the meaning of the question?,50-59 Verb
+そう,そう,"in such manner, that way",私もそう思います。,That's what I think too.,60-69 Adverb
+何,なに,"what, which",夕食には何を食べたいですか。,What would you like for supper?,60-69 Noun
+先,さき,"ahead, first",お先にどうぞ。,Please go ahead.,60-69 Noun
+今年,ことし,this year,今年はイタリアに旅行したい。,I want to travel to Italy this year.,60-69 Noun
+今,いま,now,彼は今、勉強しています。,He's studying now.,60-69 Adverb
+今日,きょう,today,今日は仕事がありません。,I have no work today.,60-69 Noun
+今月,こんげつ,this month,今月はとても忙しい。,I'm very busy this month.,60-69 Noun
+今週,こんしゅう,this week,今週は日本語のテストがあります。,There's a Japanese test this week.,60-69 Noun
+来る,くる,come,彼は昼過ぎに来ます。,He'll come after lunch.,60-69 Verb
+来年,らいねん,next year,来年一緒に旅行しましょう。,Let's travel together next year.,60-69 Noun
+もう,もう,"already, yet",彼はもう帰りました。,He's already gone home.,70-79 Adverb
+行く,いく,go,日曜日は図書館に行きます。,I go to the library on Sundays.,70-79 Verb
+帰る,かえる,"return, go back",家に帰ろう。,Let's go home.,70-79 Verb
+大きい,おおきい,big,あの大きい建物は何ですか。,What's that big building?,70-79 Adjective
+小さい,ちいさい,small,小さい花が咲いています。,Small flowers are blooming.,70-79 Adjective
+少ない,すくない,"few, little",今年は雨が少ないです。,There's not much rain this year.,70-79 Adjective
+少し,すこし,"a bit, a little while",少し疲れました。,I'm a little tired.,70-79 Adverb
+多い,おおい,lots of,京都にはお寺が多い。,There are a lot of temples in Kyoto.,70-79 Adjective
+多分,たぶん,"probably, perhaps",彼女は多分家で寝ています。,She's probably sleeping at home.,70-79 Adverb
+上げる,あげる,"raise, improve",彼は荷物をあみだなに上げた。,He put the luggage on the luggage rack.,70-79 Verb
+よく,よく,often,彼女はよく旅行に行きます。,She often goes on holiday.,80-89 Adverb
+上る,のぼる,go up,猫が屋根に上っている。,The cat's up on the roof.,80-89 Verb
+上,うえ,"up, above",上を向いて。,Look up.,80-89 Noun
+下,した,"under, below",財布は机の下にあった。,My purse was under the desk.,80-89 Noun
+右,みぎ,right,右のポケットにハンカチが入っています。,There's a handkerchief in my right pocket.,80-89 Noun
+左,ひだり,left,そこを左に曲がってください。,Please turn left there.,80-89 Noun
+方,ほう,"direction, side",彼は私の方を見ました。,He looked at me.,80-89 Noun
+大人,おとな,adult,お酒は大人になってから。,You can drink alcohol when you're an adult.,80-89 Noun
+人,ひと,person,彼は優しい人です。,He's a nice guy.,80-89 Noun
+一人,ひとり,"one, one person",そこには私一人しかいなかった。,I was the only one there.,80-89 Noun
+どう,どう,"how, what",あなたはどう思いますか。,What do you think?,90-99 Adverb
+入れる,いれる,put in,彼はかばんに手帳を入れた。,He put the appointment book in his bag.,90-99 Verb
+入る,はいる,enter,寒いので中に入ってください。,It's cold so please come inside.,90-99 Verb
+出る,でる,"go out, leave",今朝は早く家を出ました。,I left the house early this morning.,90-99 Verb
+出来る,できる,"can do, be good at",彼女はイタリア語が出来ます。,She knows Italian.,90-99 Verb
+出す,だす,take out,彼はかばんから教科書を出した。,He took the textbook out of his bag.,90-99 Verb
+本,ほん,"book, volume",本を１冊買いました。,I bought one book.,90-99 Noun
+休む,やすむ,"take a day off, take a break",明日、会社を休みます。,I'm off work tomorrow.,90-99 Verb
+体,からだ,"body, health",私は体が丈夫だ。,I'm physically strong.,90-99 Noun
+目,め,eye,彼女は青い目をしています。,She has blue eyes.,90-99 Noun
+どこ,どこ,where,あの本をどこに置きましたか。,Where did you put that book?,100-109 Noun
+口,くち,mouth,口を大きく開けてください。,"Open wide, please.",100-109 Noun
+耳,みみ,"ear, hearing",彼女は耳がよく聞こえません。,Her hearing isn't very good.,100-109 Noun
+上手,じょうず,"good, skilled",妹は歌が上手です。,My little sister can sing.,100-109 Adjectival Noun
+手,て,hand,分かった人は手を上げてください。,Please raise your hand if you understand.,100-109 Noun
+足,あし,"leg, foot",彼は足が長い。,He has long legs.,100-109 Noun
+空く,すく,be empty,レストランは空いていました。,The restaurant was empty.,100-109 Verb
+男,おとこ,"man, male",男の人が私たちに話しかけた。,This guy began talking to us.,100-109 Noun
+女,おんな,"woman, girl",店員は若い女の人でした。,The salesclerk was a young woman.,100-109 Noun
+子供,こども,"child, kid",電車で子供が騒いでいた。,Kids were making a racket in the train.,100-109 Noun
+あげる,あげる,give,この本、あなたにあげます。,I'll give you this book.,110-119 Verb
+好き,すき,"favorite, liked",私はワインが好きです。,I like wine.,110-119 Adjectival Noun
+大好き,だいすき,love,私は犬が大好きだ。,I love dogs.,110-119 Adjective
+私,わたし,I,私が行きましょう。,Why don't I go.,110-119 Noun
+友達,ともだち,"friend, companion",私には友達がたくさんいます。,I have a lot of friends.,110-119 Noun
+家,うち,"house, home",家に遊びに来てください。,Please come over to my house.,110-119 Noun
+気,き,"spirit, temperament",彼は意外に気が小さい。,He's unexpectedly timid.,110-119 Noun
+元気,げんき,"healthy, energetic",おかげさまで元気です。,"I'm fine, thank you.",110-119 Adjective
+天気,てんき,weather,今日はいい天気ですね。,It's nice out today.,110-119 Noun
+晴れる,はれる,"be sunny, clear up",明日は晴れるといいですね。,I hope it'll be sunny tomorrow.,110-119 Verb
+こう,こう,"like this, this kind of",こう小さい字は読めない。,I can't read such small letters.,120-129 Adverb
+昨日,きのう,yesterday,昨日、友達に会った。,I met a friend yesterday.,120-129 Noun
+開ける,あける,"open, unlock",窓を開けてください。,Please open the window.,120-129 Verb
+開く,ひらく,open,32ページを開いてください。,Please open to page 32.,120-129 Verb
+閉じる,とじる,close,教科書を閉じてください。,Please close your textbooks.,120-129 Verb
+閉める,しめる,"shut, close",ちゃんとドアを閉めてよ。,Close the door properly.,120-129 Verb
+閉まる,しまる,"be shut, be closed",お店はもう閉まっていました。,The shop had already closed.,120-129 Verb
+聞く,きく,"hear, ask",彼女はラジオを聞いています。,She's listening to the radio.,120-129 Verb
+時間,じかん,"time, hour",今は時間がありません。,I don't have time now.,120-129 Noun
+高い,たかい,"high, tall",これがこの町で一番高いビルです。,This is the tallest building in town.,120-129 Adjective
+くれる,くれる,be given,友達が誕生日プレゼントをくれた。,My friend gave me a birthday present.,130-139 Verb
+安い,やすい,"inexpensive, cheap",この服はとても安かった。,These clothes were very cheap.,130-139 Adjective
+低い,ひくい,"low, short",彼は背が低い。,He's short.,130-139 Adjective
+前,まえ,"front, before",その店の前で会いましょう。,Let's meet in front of the shop.,130-139 Noun
+後,あと,after,仕事の後、映画を見た。,I saw a movie after work.,130-139 Adverb
+後ろ,うしろ,"back, behind",後ろを向いて。,Turn around.,130-139 Noun
+午後,ごご,"afternoon, p.m.",明日の午後、お客様が来る。,A guest is coming to visit tomorrow afternoon.,130-139 Noun
+午前,ごぜん,"morning, a.m.",午前9時のニュースです。,And now for the 9.00 a.m. news.,130-139 Noun
+朝,あさ,morning,気持ちのいい朝です。,It's a pleasant morning.,130-139 Noun
+昼,ひる,"daytime, midday",私は昼のドラマを毎日見ます。,I watch daytime dramas every day.,130-139 Noun
+かなり,かなり,"fairly, rather",彼はかなり英語が上手です。,He's pretty good at English.,140-149 Adverb
+晩,ばん,evening (usually from sunset to bedtime),晩ご飯は食べましたか。,Have you had dinner?,140-149 Noun
+今晩,こんばん,"this evening, tonight",今晩のパーティーは何時からですか。,From what time is the party tonight?,140-149 Noun
+夜,よる,night (from sunset to sunrise),きのうの夜は家にいました。,I was at home last night.,140-149 Noun
+食べる,たべる,eat,昨日タイカレーを食べました。,I had Thai curry yesterday.,140-149 Verb
+飲む,のむ,drink,友達とお酒を飲んでいます。,I'm drinking sake with a friend.,140-149 Verb
+ご飯,ごはん,"cooked rice, meal",私はパンよりご飯が好きだ。,I prefer rice to bread.,140-149 Noun
+買う,かう,buy,郵便局で切手を買いました。,I bought a stamp at the post office.,140-149 Verb
+見る,みる,"see, look at",私は絵を見るのが好きです。,I like looking at pictures.,140-149 Verb
+見せる,みせる,show,その写真を見せてください。,Please show me those pictures.,140-149 Verb
+もっと,もっと,more,もっと近くに来てください。,Please come closer.,150-159 Adverb
+見つける,みつける,find,新しい仕事を見つけました。,I found a new job.,150-159 Verb
+見える,みえる,be visible,ここから富士山がよく見えます。,You can see Mount Fuji well from here.,150-159 Verb
+見つかる,みつかる,"be found, be caught",メガネが見つかりません。,I can't find my glasses.,150-159 Verb
+言う,いう,"say, tell",上司が「一杯、飲もう。」と言った。,"My boss said: ""Let's have a drink.""",150-159 Verb
+話す,はなす,"speak, tell",母と電話で話しました。,I spoke to my mother on the phone.,150-159 Verb
+読む,よむ,read,彼女は雑誌を読んでいます。,She's reading the magazine.,150-159 Verb
+漢字,かんじ,"character, kanji",漢字は中国から来ました。,Kanji came from China.,150-159 Noun
+書く,かく,write,彼に手紙を書きました。,I wrote him a letter.,150-159 Verb
+覚える,おぼえる,"memorize, learn",妹は平仮名を全部覚えました。,My little sister learned all the hiragana.,150-159 Verb
+そこ,そこ,there,そこに座ってください。,Please sit there.,160-169 Pronoun
+会う,あう,meet,また会いましょう。,Let's meet again.,160-169 Verb
+仕事,しごと,"work, job",3月は仕事が忙しい。,I have a lot of work in March.,160-169 Noun
+場合,ばあい,"situation, case",分からない場合は私に聞いてください。,Please ask me if you don't understand.,160-169 Noun
+車,くるま,"car, automobile",弟が車を買った。,My younger brother bought a car.,160-169 Noun
+電車,でんしゃ,train,私は電車で通学しています。,I go to school by train.,160-169 Noun
+駅,えき,railway station,駅はどこですか。,Where's the station?,160-169 Noun
+道,みち,"road, street",この道を真っ直ぐ行くと駅です。,Go straight along this road to get to the station.,160-169 Noun
+他,ほか,other,他に方法がありません。,There's no other way.,160-169 Noun
+止める,やめる,"stop, give up, abolish",話すのを止めてください。,"Stop talking, please.",160-169 Verb
+ここ,ここ,here,ここに本があります。,There's a book here.,170-179 Pronoun
+歩く,あるく,"walk, go on foot",駅まで歩きましょう。,Let's walk to the station.,170-179 Verb
+走る,はしる,run,彼は毎晩3キロ走っています。,Every night he runs three kilometers.,170-179 Verb
+近く,ちかく,"near, close to",駅の近くで食事をした。,I ate near the station.,170-179 Adverb
+近い,ちかい,"near, soon",駅はここから近いです。,The station is near here.,170-179 Adjective
+近く,ちかく,"vicinity, nearby",私の家は駅の近くです。,My house is near the station.,170-179 Noun
+遠い,とおい,"far, distant",家から学校までは遠いです。,It's a long way from my house to the school.,170-179 Adjective
+長い,ながい,long,彼女の髪はとても長い。,Her hair is very long.,170-179 Adjective
+短い,みじかい,"short, brief",彼は足が短い。,His legs are short.,170-179 Adjective
+広い,ひろい,"wide, big",彼の家はとても広い。,His house is very big.,170-179 Adjective
+もらう,もらう,receive,彼女からプレゼントをもらいました。,I got a present from her.,180-189 Verb
+全部,ぜんぶ,"all, wholly",それ、全部ください。,"I'd like all of those, please.",180-189 Adverb
+国,くに,country,私の国について少しお話しましょう。,Let me tell you a bit about my country.,180-189 Noun
+白い,しろい,"white, blank",彼は歯が白い。,His teeth are white.,180-189 Adjective
+赤い,あかい,red,赤いバラを買いました。,I bought a red rose.,180-189 Adjective
+部屋,へや,room,私の部屋は2階にあります。,My room is on the second floor.,180-189 Noun
+米,こめ,rice (grain),日本人はお米が大好きです。,Japanese people love rice.,180-189 Noun
+未だ,まだ,"yet, more",宿題は未だ終わっていません。,I haven't finished my homework yet.,180-189 Adverb
+有る,ある,"exist, possess",私の机の上に書類がたくさん有ります。,There are a lot of documents on my desk.,180-189 Verb
+無い,ない,to not be,ここには何も無い。,There's nothing here.,180-189 Adjective
+とても,とても,very,この本はとてもおもしろい。,This book is very interesting.,190-199 Adverb
+作る,つくる,"make, create",今、朝ご飯を作っています。,I'm making breakfast now.,190-199 Verb
+使う,つかう,use,このパソコンを使ってください。,Please use this computer.,190-199 Verb
+消す,けす,"switch off, turn off",昼間は電気を消してください。,Please turn the lights off during the day.,190-199 Verb
+売る,うる,sell,彼は家を売った。,He sold the house.,190-199 Verb
+店,みせ,"shop, store",私はこの店によく来ます。,I come to this store quite often.,190-199 Noun
+春,はる,spring,今年の春は暖かいね。,"It's warm this spring, isn't it.",190-199 Noun
+夏,なつ,summer,私は夏が大好き。,I just love summer.,190-199 Noun
+秋,あき,"autumn, fall",彼女は秋に結婚します。,She'll get married this fall.,190-199 Noun
+冬,ふゆ,winter,カナダの冬はとても寒いです。,Canada's winters are very cold.,190-199 Noun
+みんな,みんな,"all, everybody",みんなにお菓子をあげましょう。,Let's give everyone some sweets.,200-209 Noun
+暑い,あつい,"hot, warm (temperature of the air)",今日はとても暑い。,It's very hot today.,200-209 Adjective
+熱い,あつい,"hot (things, touch)",このスープはとても熱い。,This soup is very hot.,200-209 Adjective
+寒い,さむい,cold (temperature of the air),この部屋は寒いです。,It's cold in this room.,200-209 Adjective
+暖かい,あたたかい,warm,このコートはとても暖かい。,This coat is really warm.,200-209 Adjective
+新しい,あたらしい,new,彼の車は新しい。,His car is new.,200-209 Adjective
+古い,ふるい,old,私は古い車が好きです。,I like old cars.,200-209 Adjective
+良い,いい,good,彼女は良い友達です。,She's a good friend.,200-209 Adjective
+悪い,わるい,bad,たばこは体に悪い。,Cigarettes are bad for your health.,200-209 Adjective
+思う,おもう,think,私もそう思います。,I think so too.,200-209 Verb
+いつも,いつも,always,彼女はいつも元気だ。,She's always full of energy.,210-219 Adverb
+忘れる,わすれる,"forget, leave behind",約束を忘れないでください。,Please don't forget your promise.,210-219 Verb
+考える,かんがえる,"think, consider",よく考えてください。,Please think carefully.,210-219 Verb
+決める,きめる,"decide, agree upon",帰国することに決めました。,I've decided to go back to my country.,210-219 Verb
+決まる,きまる,be decided,旅行の日程が決まりました。,I've decided on my travel schedule.,210-219 Verb
+知る,しる,know,誰もその話を知らない。,No one knows that story.,210-219 Verb
+一番,いちばん,most,彼はクラスで一番背が高い。,He's the tallest in class.,210-219 Adverb
+住む,すむ,"live, reside",彼は会社の近くに住んでいる。,He lives near his office.,210-219 Verb
+名前,なまえ,name,あなたの名前を教えてください。,Please tell me your name.,210-219 Noun
+食べ物,たべもの,food,日本の食べ物はとても美味しいです。,Japanese food is very delicious.,210-219 Noun
+いつ,いつ,when,彼女はいつ来ますか。,When is she coming?,220-229 Noun
+飲み物,のみもの,"beverage, drink",何か飲み物が欲しいな。,I could really use something to drink.,220-229 Noun
+重い,おもい,heavy,このかばんは重いです。,This bag is heavy.,220-229 Adjective
+軽い,かるい,"light, light weight",この靴はとても軽い。,These shoes are very light.,220-229 Adjective
+送る,おくる,send,彼の家に荷物を送りました。,I sent a package to his house.,220-229 Verb
+取る,とる,"take, get",テストでいい点を取った。,I got a good grade on the test.,220-229 Verb
+待つ,まつ,"wait, wait for",あなたが来るのを待っています。,I am waiting for you to come.,220-229 Verb
+持つ,もつ,"have, possess",私は車を持っています。,I have a car.,220-229 Verb
+気持ち,きもち,"feeling, sensation",彼の気持ちが分からない。,I don't understand his feelings.,220-229 Noun
+生きる,いきる,live (one's life),皆一生懸命生きている。,They're all living their lives the best way that they can.,220-229 Verb
+どちら,どちら,which,肉と魚とどちらが好きですか。,"Which do you prefer, meat or fish?",230-239 Noun
+先生,せんせい,teacher,私は日本語の先生になりたいです。,I want to become a Japanese teacher.,230-239 Noun
+大学,だいがく,"university, college",大学に行ってもっと勉強したいです。,I want to go to college and study more.,230-239 Noun
+学生,がくせい,student,彼は真面目な学生です。,He's a serious student.,230-239 Noun
+大学生,だいがくせい,university student,姉は大学生です。,My big sister's a college student.,230-239 Noun
+学校,がっこう,school,学校は8時半に始まります。,School starts at 8:30.,230-239 Noun
+高校生,こうこうせい,high school student,私の弟は高校生です。,My little brother's a high school student.,230-239 Noun
+教える,おしえる,"teach, tell",彼は数学を教えています。,He teaches mathematics.,230-239 Verb
+勉強,べんきょう,study,私は日本語を勉強しています。,I'm studying Japanese.,230-239 Verbal Noun
+強い,つよい,strong,今日は風が強い。,There's a strong wind today.,230-239 Adjective
+どれ,どれ,"what, which",この中でどれが好きですか。,Which of these do you like?,240-249 Noun
+弱い,よわい,weak,その子は体が少し弱い。,That child has a somewhat weak constitution.,240-249 Adjective
+引く,ひく,"draw, pull",このドアは引いてください。,Please pull this door open.,240-249 Verb
+質問,しつもん,question,質問のある方はどうぞ。,Please feel free to ask any questions.,240-249 Verbal Noun
+難しい,むずかしい,difficult,この本は難しいですね。,This book is difficult.,240-249 Adjective
+数,かず,number,グラスの数が足りません。,There are not enough glasses.,240-249 Noun
+勝つ,かつ,win,今日はヤンキースが勝った。,The Yankees won today.,240-249 Verb
+負ける,まける,lose,私たちのチームはその試合で負けた。,Our team lost the game.,240-249 Verb
+本当に,ほんとうに,"really, truly",あなたが本当に好きです。,I really like you.,240-249 Adverb
+要る,いる,"need, require",予約は要りません。,Reservations are not required.,240-249 Verb
+ドア,ドア,door,ドアを開けてください。,Please open the door.,250-259 Noun
+時計,とけい,"clock, watch",時計を見たらちょうど3時だった。,I looked at the clock and it was exactly three.,250-259 Noun
+払う,はらう,pay,私が払いましょう。,Let me pay for that.,250-259 Verb
+切る,きる,cut,この紙を半分に切ってください。,Please cut this paper in half.,250-259 Verb
+変える,かえる,change,旅行の日程を変えました。,I changed our travel schedule.,250-259 Verb
+乗る,のる,"ride, take",駅からはタクシーに乗ってください。,Please take a taxi from the station.,250-259 Verb
+着る,きる,"wear, put on",今日はスーツを着ています。,I'm wearing a suit today.,250-259 Verb
+立つ,たつ,"stand, rise",彼はステージに立った。,He stood on stage.,250-259 Verb
+座る,すわる,"sit, sit down",私は窓側の席に座った。,I sat in a window seat.,250-259 Verb
+次,つぎ,next,次はいつ会いましょうか。,When shall we meet again?,250-259 Noun
+しゃべる,しゃべる,"chat, talk",彼女はよくしゃべるね。,"She really likes to chat, doesn't she?",260-269 Verb
+動く,うごく,move,動かないで。,Freeze!,260-269 Verb
+働く,はたらく,work,姉は銀行で働いています。,My big sister works at a bank.,260-269 Verb
+早い,はやい,early,まだ学校へ行くには早い時間です。,It's still too early to go to school.,260-269 Adjective
+速い,はやい,fast,彼は走るのが速い。,He runs fast.,260-269 Adjective
+遅い,おそい,"slow, late",前の車はとても遅い。,The car in front is very slow.,260-269 Adjective
+始める,はじめる,"begin, start",テストを始めてください。,Please start the test.,260-269 Verb
+始まる,はじまる,begin,新しい仕事が始まりました。,My new job started.,260-269 Verb
+終わる,おわる,"finish, end",会議は4時に終わります。,The conference ends at four o'clock.,260-269 Verb
+終わり,おわり,"end, conclusion",夏休みももう終わりだ。,Summer vacation's already over.,260-269 Noun
+テーブル,テーブル,table,新しいテーブルを買いました。,I bought a new table.,270-279 Noun
+去年,きょねん,last year,私は去年フランスへ行った。,I went to France last year.,270-279 Noun
+紙,かみ,paper,紙と鉛筆はありますか。,Do you have paper and pencil?,270-279 Noun
+楽しむ,たのしむ,enjoy,今日は一人の時間を楽しみたい。,Today I would like to enjoy some time to myself.,270-279 Verb
+楽しい,たのしい,"fun, enjoyable",彼はとても楽しい人です。,He's very fun to be with.,270-279 Adjective
+歌う,うたう,sing,私たちは大きな声で歌いました。,We sang loudly.,270-279 Verb
+欲しい,ほしい,"want, desire",僕は新しい靴が欲しいです。,I want new shoes.,270-279 Adjective
+色,いろ,color,すてきな色のセーターですね。,That sweater is a wonderful color.,270-279 Noun
+茶色,ちゃいろ,light brown,彼女は茶色の靴を履いています。,She's wearing brown shoes.,270-279 Noun
+直ぐ,すぐ,"at once, soon",直ぐ行きます。,I'll go right away.,270-279 Adverb
+ゲーム,ゲーム,game,私たちはビデオゲームをした。,We played a video game.,280-289 Noun
+書き直す,かきなおす,rewrite,この書類を書き直してください。,Please rewrite this document.,280-289 Verb
+直る,なおる,"be repaired, return to normal",クーラーはまだ直りません。,The air conditioner hasn't been repaired yet.,280-289 Verb
+線,せん,line,赤い線を2本引いて下さい。,Please draw two red lines.,280-289 Noun
+曲がる,まがる,turn,そこを左に曲がってください。,Please turn left there.,280-289 Verb
+同じ,おなじ,"same, identical",彼の日本語のレベルは私と同じ位だ。,His Japanese level is about the same as mine.,280-289 Adjectival Noun
+違う,ちがう,"differ, be wrong",答えが違います。,That's the wrong answer.,280-289 Verb
+図書館,としょかん,library,図書館で料理の本を借りた。,I borrowed a cookbook from the library.,280-289 Noun
+泊まる,とまる,stay overnight,今日はこのホテルに泊まります。,I'm staying at this hotel today.,280-289 Verb
+遊ぶ,あそぶ,play,子供たちが公園で遊んでいる。,The children are playing in the park.,280-289 Verb
+どうして,どうして,why,どうして泣いているの。,Why are you crying?,290-299 Adverb
+服,ふく,clothes,昨日、新しい服を買った。,I bought some new clothes yesterday.,290-299 Noun
+お父さん,おとうさん,father,お父さんは会社員です。,My father's a company employee.,290-299 Noun
+父,ちち,(speaker's)father,私は父が大好きです。,I love my father.,290-299 Noun
+お母さん,おかあさん,mother,お母さんによろしくお伝えください。,Please give my best to your mother.,290-299 Noun
+母,はは,(speaker's)mother,昨日、母と話をしました。,I talked to my mother yesterday.,290-299 Noun
+親,おや,parent,親の愛は有り難い。,We're grateful for our parents' love.,290-299 Noun
+姉,あね,older sister,姉は大学生です。,My big sister's a college student.,290-299 Noun
+お姉さん,おねえさん,older sister,昨日、あなたのお姉さんに会ったよ。,I met your older sister yesterday.,290-299 Noun
+妹,いもうと,younger sister,私の妹は小学生です。,My little sister goes to elementary school.,290-299 Noun
+おなか,おなか,stomach,おなかが空きました。,I'm hungry.,300-309 Noun
+兄,あに,older brother,兄は水泳が得意です。,My big brother is good at swimming.,300-309 Noun
+お兄さん,おにいさん,older brother,あなたのお兄さんは何歳?,How old's your big brother?,300-309 Noun
+弟,おとうと,younger brother,弟は野球が好きです。,My little brother likes baseball.,300-309 Noun
+娘,むすめ,"daughter, girl",私の娘はアメリカにいます。,My daughter is in the United States.,300-309 Noun
+息子,むすこ,son,うちの息子は大学1年生です。,My son's a college freshman.,300-309 Noun
+若い,わかい,young,彼はまだ若いです。,He's still young.,300-309 Adjective
+彼女,かのじょ,"she, one's girlfriend",彼女はOLです。,She's an office worker.,300-309 Pronoun
+彼,かれ,"he, one's boyfriend",彼は私の上司です。,He's my senior.,300-309 Noun
+結婚,けっこん,marriage,彼女は来月結婚します。,She's getting married next month.,300-309 Verbal Noun
+ミーティング,ミーティング,meeting,朝9時からミーティングが始まった。,The meeting started at 9 a.m.,310-319 Noun
+自転車,じてんしゃ,bicycle,毎日、駅まで自転車で行きます。,I go to the station by bike every day.,310-319 Noun
+自分,じぶん,"self, oneself",宿題は自分でやりなさい。,Do your homework by yourself.,310-319 Noun
+ご主人,ごしゅじん,(your) husband,ご主人はお元気ですか。,How is your husband?,310-319 Noun
+答える,こたえる,"answer, reply",私の質問に答えてください。,Please answer my question.,310-319 Verb
+別,べつ,"another, different",別の本も見せてください。,Please show me another book.,310-319 Adjectival Noun
+病気,びょうき,illness,祖父が病気になった。,My grandfather got sick.,310-319 Verbal Noun
+死ぬ,しぬ,die,犬が病気で死にました。,Our dog got sick and died.,310-319 Verb
+痛い,いたい,painful,今日は頭が痛いです。,I have a headache today.,310-319 Adjective
+酒,さけ,"alcoholic drink, Japanese rice wine",彼女は酒に強い。,She holds her liquor well.,310-319 Noun
+つける,つける,switch on,電気をつけてください。,Please turn on the light.,320-329 Verb
+一杯,いっぱい,full,プールは人で一杯です。,The pool is packed.,320-329 Adverb
+飛ぶ,とぶ,fly,鳥が飛んでいます。,A bird is flying.,320-329 Verb
+飛行機,ひこうき,airplane,息子は飛行機のおもちゃが好きです。,My son likes toy airplanes.,320-329 Noun
+お願い,おねがい,favor,お願いがあります。,I have a favor to ask.,320-329 Verbal Noun
+続く,つづく,"continue, follow",工事は3月まで続きます。,Construction will continue until March.,320-329 Verb
+日記,にっき,diary,私は毎日、日記を付けています。,I keep a diary every day.,320-329 Noun
+首,くび,neck,きりんの首は長い。,Giraffes' necks are long.,320-329 Noun
+頭,あたま,head,今朝から頭が痛い。,I've had a headache since this morning.,320-329 Noun
+顔,かお,face,彼はタオルで顔を拭きました。,He wiped his face with a towel.,320-329 Noun
+あれ,あれ,that over there,あれは何ですか。,What's that?,330-339 Noun
+感じる,かんじる,"feel, sense",膝に痛みを感じます。,I feel a pain in my knee.,330-339 Verb
+探す,さがす,"search for, look for",彼は郵便局を探していました。,He was looking for the post office.,330-339 Verb
+落ちる,おちる,"fall, sink",猿も木から落ちる。,Monkeys also fall from trees.,330-339 Verb
+お手洗い,おてあらい,"toilet, bathroom",お手洗いはどこですか。,Where's the bathroom?,330-339 Noun
+冷たい,つめたい,"cold (things, touch)",冷たい飲み物をください。,Please give me a cold drink.,330-339 Adjective
+汚い,きたない,dirty,彼の部屋はとても汚い。,His room is very dirty.,330-339 Adjective
+太い,ふとい,"thick, fat",彼女は足が太い。,She has fat legs.,330-339 Adjective
+曇る,くもる,become cloudy,明日は昼頃から曇るでしょう。,It'll probably get cloudy around noon tomorrow.,330-339 Verb
+神,かみ,"god, spirit",彼は神を信じている。,He believes in God.,330-339 Noun
+まずい,まずい,"bad-tasting, bad",ここの料理はまずい。,The food here is bad.,340-349 Adjective
+建てる,たてる,"build, erect",私たちは来年、家を建てます。,We're building a house next year.,340-349 Verb
+置く,おく,"put, leave",彼はかばんをいすの上に置きました。,He put the bag on the chair.,340-349 Verb
+辺,へん,area; vicinity,彼はこの辺に住んでいます。,He lives around here.,340-349 Noun
+黄色い,きいろい,yellow,彼女に黄色いバラを買いました。,I bought her a yellow rose.,340-349 Adjective
+一緒に,いっしょに,"together, at the same time",一緒に帰りましょう。,Let's go home together.,340-349 Adverb
+緑,みどり,"green, foliage",この町には緑がたくさんあります。,There's a lot of greenery in this town.,340-349 Noun
+易しい,やさしい,"easy, simple",この問題はかなり易しいです。,This problem is pretty easy.,340-349 Adjective
+留学生,りゅうがくせい,student studying abroad,彼は留学生です。,He's a foreign student.,340-349 Noun
+戻る,もどる,"return, turn back",今、会社に戻ります。,I'm going back to the office now.,340-349 Verb
+そば,そば,"side, vicinity",そばにいて下さい。,Stay with me.,350-359 Noun
+起きる,おきる,"get up, get out of bed",私は毎朝6時に起きます。,I get up at six o'clock every morning.,350-359 Verb
+起こる,おこる,happen,町で大事件が起こりました。,There was a major incident in town.,350-359 Verb
+起こす,おこす,wake up,明日、6時に起こしてください。,Please wake me up tomorrow at six o'clock.,350-359 Verb
+起きる,おきる,"occur, wake up",近所で盗難事件が起きました。,Some burglaries occurred in the neighborhood.,350-359 Verb
+寝る,ねる,"sleep, go to sleep",もう寝よう。,Let's go to bed.,350-359 Verb
+細い,ほそい,"thin, slender, narrow",彼女は指が細いですね。,Her fingers are thin.,350-359 Adjective
+載せる,のせる,"place, put on",皿にケーキを載せました。,I put the cake on the plate.,350-359 Verb
+締める,しめる,"tighten, fasten",彼はシートベルトを締めた。,He fastened his seat belt.,350-359 Verb
+甘い,あまい,sweet,このイチゴは甘い。,This strawberry is sweet.,350-359 Adjective
+こっち,こっち,here,こっちに来て下さい。,Please come here.,360-369 Pronoun
+辛い,からい,"spicy, salty",彼は辛いものが好きです。,He likes spicy food.,360-369 Adjective
+優しい,やさしい,"gentle, kind",彼はとても優しい人です。,He's a very kind person.,360-369 Adjective
+夫,おっと,husband,私の夫はサラリーマンです。,My husband is a company employee.,360-369 Noun
+妻,つま,wife,今日は妻の誕生日だ。,It's my wife's birthday today.,360-369 Noun
+誰,だれ,"who, whom",誰と会ってみたいですか。,Who would you like to meet one day?,360-369 Noun
+愛する,あいする,"love, care for",私は家族を愛しています。,I love my family.,360-369 Verb
+笑う,わらう,"laugh, smile",赤ん坊が笑っています。,The baby is laughing.,360-369 Verb
+酸っぱい,すっぱい,sour,このぶどうは酸っぱいです。,These grapes are sour.,360-369 Adjective
+言葉,ことば,"word, language",この言葉の意味が分かりません。,I don't understand the meaning of this word.,360-369 Noun
+よう,よう,"way, like, kind",彼女は眠いようです。,It looks like she's sleepy.,370-379 Noun
+呼ぶ,よぶ,"call, name",ウェイターを呼びましょう。,Let's call the waiter.,370-379 Verb
+胸,むね,chest,胸に少し痛みがあります。,I have a slight pain in my chest.,370-379 Noun
+腰,こし,"hip, lower back",昨日から腰が痛い。,I've had a pain in my lower back since yesterday.,370-379 Noun
+背,せ,"height, stature",彼女は背が高い。,She's tall.,370-379 Noun
+片仮名,かたかな,katakana,お名前を片仮名で書いてください。,Please write your name in katakana.,370-379 Noun
+平仮名,ひらがな,hiragana,私は平仮名を全部読めます。,I can read all the hiragana.,370-379 Noun
+悲しい,かなしい,sad,その映画はとても悲しかった。,That movie was very sad.,370-379 Adjective
+美しい,うつくしい,beautiful,この絵は美しいです。,This picture is beautiful.,370-379 Adjective
+授業,じゅぎょう,"class, lesson",今日は日本語の授業があります。,There's going to be a Japanese class today.,370-379 Verbal Noun
+あそこ,あそこ,over there,あそこにバス停があります。,There's a bus stop over there.,380-389 Pronoun
+手伝う,てつだう,"help, assist",私が手伝いましょう。,Can I help you?,380-389 Verb
+狭い,せまい,"narrow, restricted",私の部屋は狭いです。,My room is small.,380-389 Adjective
+触る,さわる,"touch, feel",絵に触らないでください。,Please don't touch the painting.,380-389 Verb
+嫌い,きらい,dislike,私はタバコが嫌いです。,I hate cigarettes.,380-389 Adjective
+浴びる,あびる,take (a shower),私は朝、シャワーを浴びます。,I take a shower in the morning.,380-389 Verb
+渇く,かわく,be thirsty,喉が渇きました。,I'm thirsty.,380-389 Verb
+髪の毛,かみのけ,hair,髪の毛が伸びたね。,"Your hair's longer, isn't it?",380-389 Noun
+肩,かた,shoulder,肩が凝りました。,My shoulders are stiff.,380-389 Noun
+鼻,はな,nose,鼻がかゆいです。,My nose itches.,380-389 Noun
+おいしい,おいしい,tasty,このケーキはおいしいね。,This cake is yummy.,390-399 Adjective
+腕,うで,arm,彼の腕は太い。,He has big arms.,390-399 Noun
+掛ける,かける,"hang, put on",夫の服をハンガーに掛けた。,I put my husband's clothes on a hanger.,390-399 Verb
+僕,ぼく,I (young male),僕は学生です。,I'm a student.,390-399 Noun
+駄目,だめ,no good,彼は駄目な男だ。,He's a loser.,390-399 Adjectival Noun
+大丈夫,だいじょうぶ,"alright, OK",大丈夫ですか。,Are you OK?,390-399 Adjectival Noun
+風邪,かぜ,cold (illness),私は風邪を引きました。,I caught a cold.,390-399 Noun
+奇麗,きれい,beautiful,彼女はとても奇麗だ。,She's very beautiful.,390-399 Adjectival Noun
+嬉しい,うれしい,"happy, glad",彼に会えて嬉しかった。,I was glad to meet him.,390-399 Adjective
+なる,なる,become,柿の木に実がたくさんなっています。,A lot of fruit is ripening on the persimmon tree.,390-399 Verb
+ため,ため,"sake, purpose",これは医者のためのサイトです。,This is a site for doctors.,400-409 Noun
+より,より,"more, further",これから、より一層努力します。,I'll work that much harder from now.,400-409 Adverb
+七,しち,seven,そのグループのメンバーは全部で七人だ。,There are seven members of the group in all.,400-409 Noun
+九,く,nine,私は九月に行く予定です。,I plan to go in September.,400-409 Noun
+億,おく,hundred million,世界人口は65億人だ。,The world's population is 6.5 billion people.,400-409 Noun
+寺,てら,buddhist temple,あそこに古いお寺があります。,There's an old temple there.,400-409 Noun
+ドル,ドル,dollar,この服は300ドルしました。,These clothes cost 300 dollars.,400-409 Noun
+日,ひ,"sun, sunlight, day",夏は日が長い。,The days are long in summer.,400-409 Noun
+火,ひ,fire,火を消して。,Put the fire out.,400-409 Noun
+木,き,"tree, wood",台風で木が倒れた。,The tree fell because of the typhoon.,400-409 Noun
+金,きん,"gold, sum of money, Friday",彼女は金のネックレスをしています。,She's wearing a gold necklace.,410-419 Noun
+システム,システム,system,全てのシステムが停止した。,All systems have stopped.,410-419 Noun
+十分,じゅうぶん,"full, plentiful",お金はまだ十分あります。,We still have plenty of money.,410-419 Adjectival Noun
+分,ぶん,"amount, part, share",このケーキはあなたの分です。,This is your share of the cake.,410-419 Noun
+分ける,わける,"divide into parts, sort, share",お菓子をみんなで分けました。,We shared the sweets with everyone.,410-419 Verb
+分かれる,わかれる,"be divided, disperse, branch off",グループの中で意見が分かれました。,Opinion was divided within the group.,410-419 Verb
+コンピューター,コンピューター,computer,新しいコンピューターを買った。,I bought a new computer.,410-419 Noun
+何か,なにか,something,道に何か落ちています。,Something has fallen on the road.,410-419 Noun
+何,なん,"what, which",質問は何ですか。,What's the question?,410-419 Noun
+先ず,まず,first,帰ったら先ず手を洗いましょう。,"When you get home, wash your hands first.",410-419 Adverb
+先月,せんげつ,last month,先月、友達の結婚式があった。,My friend's wedding was held last month.,420-429 Noun
+やる,やる,give (to an inferior),犬にえさをやった。,I fed the dog.,420-429 Verb
+先週,せんしゅう,last week,先週は海に行った。,I went to the beach last week.,420-429 Noun
+今まで,いままで,"until now, so far",今までどこにいたのですか。,Where were you until now?,420-429 Adverb
+来月,らいげつ,next month,来月から大学生になります。,I'll be a college student beginning next month.,420-429 Noun
+来週,らいしゅう,next week,続きは来週やりましょう。,Let's continue next week.,420-429 Noun
+ロボット,ロボット,robot,彼はロボットの研究をしています。,He is doing research on robots.,420-429 Noun
+行う,おこなう,"do, carry out",その会社は来月、キャンペーンを行う。,That company is going to run a campaign next month.,420-429 Verb
+行き,いき,going,行きは新幹線で行った。,I went by bullet train on the way over.,420-429 Noun
+行き,ゆき,going,東京行きの列車に乗った。,I got on the Tokyo-bound train.,420-429 Noun
+帰り,かえり,"return, going home",仕事の帰りにビールを飲んだ。,I had a beer on the way home from work.,430-439 Noun
+ほとんど,ほとんど,"almost, hardly",お金がほとんどありません。,There's hardly any money.,430-439 Adverb
+大きさ,おおきさ,"size, dimensions",この大きさの封筒が欲しいのですが。,I'd like an envelope of this size.,430-439 Noun
+大分,だいぶ,"very, greatly",大分ピアノが上手くなりました。,You've gotten pretty good at the piano.,430-439 Adverb
+中,なか,"inside, middle",財布は引き出しの中にあります。,My purse is in the drawer.,430-439 Noun
+少年,しょうねん,boy,少年たちがサッカーをしている。,The boys are playing soccer.,430-439 Noun
+パソコン,パソコン,personal computer,彼はパソコンを2台持っています。,He has two personal computers.,430-439 Noun
+少しも,すこしも,at all,あなたは少しも悪くない。,It's not your fault at all.,430-439 Adverb
+少々,しょうしょう,"a little, a few",塩を少々入れてください。,Please put in a little salt.,430-439 Adverb
+多く,おおく,"many, much, largely",毎年多くの人が海外へ旅行する。,A lot of people travel abroad every year.,430-439 Adverb
+上がる,あがる,"go up, rise",私たちは２階に上がった。,We went up to the second floor.,440-449 Verb
+もう,もう,"another, again",コーヒーをもう一杯ください。,Please give me another cup of coffee.,440-449 Adverb
+上がる,あがる,"get nervous, get stage fright",彼は人前だと上がってしまう。,He gets nervous in front of other people.,440-449 Verb
+年上,としうえ,"older, senior",彼は私より年上です。,He's older than me.,440-449 Noun
+上り,のぼり,"going up, ascent",これは上り電車です。,This is the train going downtown.,440-449 Noun
+下げる,さげる,"lower, turn down",少し音量を下げてください。,Please turn the volume down a little.,440-449 Verb
+プログラム,プログラム,program,受付でプログラムを受け取った。,I got my program at the reception.,440-449 Noun
+下がる,さがる,"come down, hang down, fall",やっと熱が下がった。,His fever finally went down.,440-449 Verb
+下りる,おりる,"go down, come down",そこの階段を下りてください。,Please go down those stairs.,440-449 Verb
+下ろす,おろす,"bring down, take down, pull down",棚からその箱を下ろしてください。,Please take the box down from the shelf.,440-449 Verb
+下り,くだり,"downhill, going down",もうすぐ下りの電車が発車します。,The train out of the city leaves soon.,450-459 Noun
+よく,よく,well,よく答えが分かりましたね。,You did well in coming up with the answer.,450-459 Adverb
+年下,としした,"younger, junior",彼は奥さんより年下です。,He's younger than his wife.,450-459 Noun
+下る,くだる,"go down, go down or away from a central place",小さな船が川を下っています。,A small ship is going down the river.,450-459 Verb
+一方,いっぽう,one way,ここは一方通行です。,This is a one-way street.,450-459 Noun
+方,かた,person　（polite form),次の方、どうぞ。,Next please.,450-459 Noun
+まま,まま,"as is, still (in the current state)",電気がついたままですよ。,The light is still on.,450-459 Noun
+二人,ふたり,two persons,今日は妻と二人で食事をします。,"Today I'm having dinner with my wife, just the two of us.",450-459 Noun
+大人しい,おとなしい,"gentle, quiet, subdued",私の彼女はとても大人しいです。,My girlfriend's very quiet.,450-459 Adjective
+人々,ひとびと,people,あの村の人々はとても親切です。,People in that village are very kind.,450-459 Noun
+一人で,ひとりで,by oneself,今日は一人で映画を見ます。,I saw a movie by myself today.,460-469 Adverb
+テレビ,テレビ,television,私はテレビをあまり見ません。,I don't watch much TV.,460-469 Noun
+外人,がいじん,"foreigner, alien",この町には外人が少ない。,There are few foreigners in this town.,460-469 Noun
+外,そと,"outside, open air",外は暑いよ。,It's hot outside.,460-469 Noun
+休日,きゅうじつ,"holiday, day off",休日は家でよくテレビを見ます。,I often watch television at home on my days off.,460-469 Noun
+休み,やすみ,"rest, holiday, absence",木曜日は仕事が休みです。,Thursday is my day off work.,460-469 Noun
+ソフト,ソフト,"software, programme",このソフトで日本語を勉強することができます。,You can study Japanese with this software.,460-469 Noun
+力,ちから,"strength, power",お相撲さんは、みんな力持ちだ。,All sumo wrestlers are strong.,460-469 Noun
+協力,きょうりょく,"cooperation, collaboration",このプロジェクトにはみんなの協力が必要です。,This project requires everyone's cooperation.,460-469 Verbal Noun
+人口,じんこう,population,その国の人口はどのくらいですか。,What's the population of that country?,460-469 Noun
+出口,でぐち,"exit, exit ramp",出口はあそこです。,The exit's over there.,470-479 Noun
+ただ,ただ,free,この温泉はただです。,This hot spring is free.,470-479 Noun
+入り口,いりぐち,entrance,入り口は向こうです。,The entrance is over there.,470-479 Noun
+右手,みぎて,right hand,私は右手で字を書きます。,I write right-handed.,470-479 Noun
+左手,ひだりて,left hand,彼女は左手で字を書く。,She writes left-handed.,470-479 Noun
+下手,へた,not good at,私は歌が下手だ。,I'm a terrible singer.,470-479 Adjectival Noun
+これら,これら,these,今日はこれらの問題について話し合います。,We will discuss these issues today.,470-479 Noun
+足りる,たりる,"suffice, serve, be satisfied",お金が足りなくて買えなかった。,I couldn't buy it because I didn't have enough money.,470-479 Verb
+足す,たす,"add, supplement",母は味噌汁に水を足した。,My mother added water to the miso soup.,470-479 Verb
+山,やま,mountain,山の空気はきれいだ。,The mountain air is clean.,470-479 Noun
+川,かわ,"river, stream",小さな川を渡りました。,I crossed a stream.,480-489 Noun
+いずれ,いずれ,"eventually, sometime",いずれまたお会いしましょう。,Let's meet again sometime.,480-489 Adverb
+空く,あく,become available or vacant,後ろの席が空いています。,The rear seat is empty.,480-489 Verb
+空手,からて,"karate, empty hand",彼は空手を習っています。,He's learning karate.,480-489 Noun
+空,そら,"sky, weather",空が真っ青です。,The sky is bright blue.,480-489 Noun
+海外,かいがい,"overseas, abroad",彼は海外での生活が長いです。,He's lived abroad for a long time.,480-489 Noun
+あまり,あまり,(not) much,このビールはあまり美味しくありません。,This beer isn't very good.,480-489 Adverb
+海,うみ,"sea, ocean",海は広くて大きい。,The sea is vast and wide.,480-489 Noun
+毎日,まいにち,every day,私たちは毎日散歩をします。,We go for a walk every day.,480-489 Noun
+毎年,まいとし,every year,私は毎年、海外旅行に行きます。,I travel abroad every year.,480-489 Noun
+毎年,まいねん,every year  (also まいとし),毎年給料が上がる。,My salary goes up every year.,490-499 Noun
+なお,なお,"still, in addition",なお、雨の場合は中止です。,"Moreover, it will be canceled in the event of rain.",490-499 Adverb
+毎週,まいしゅう,every week,私は毎週母に電話をします。,I call my mother every week.,490-499 Noun
+毎月,まいつき,every month,私は毎月貯金をしています。,I save money every month.,490-499 Noun
+石,いし,"stone, small rock",私は石につまづいた。,I tripped on a stone.,490-499 Noun
+田んぼ,たんぼ,rice field,この辺は田んぼがたくさんあります。,There are a lot of rice fields around here.,490-499 Noun
+ほぼ,ほぼ,"almost, nearly",仕事がほぼ終わりました。,My work is almost finished.,490-499 Adverb
+花,はな,flower,きれいな花が咲きました。,Beautiful flowers have bloomed.,490-499 Noun
+林,はやし,"woods, grove",私たちは林の中に入っていった。,We entered the woods.,490-499 Noun
+森,もり,"thick woods, forest",私は森を歩くのが好きです。,I like to walk in the forest.,490-499 Noun
+子,こ,"child, kid",その子は日本語が分からない。,That kid doesn't understand Japanese.,500-509 Noun
+サービス,サービス,"service, on the house",この店はサービスがいい。,The service in this store is good.,500-509 Verbal Noun
+女の子,おんなのこ,"girl, daughter",あの女の子を知っていますか。,Do you know that girl?,500-509 Noun
+男の子,おとこのこ,"boy, baby boy",男の子たちがサッカーをしている。,The boys are playing soccer.,500-509 Noun
+私たち,わたしたち,we,私たちは来月結婚します。,We will get married next month.,500-509 Noun
+達する,たっする,"attain, reach",気温は35度に達した。,The temperature reached 35 degrees.,500-509 Verb
+グループ,グループ,group,店に学生のグループが来た。,A group of students came to the shop.,500-509 Noun
+家,いえ,"house, home",ここが私の家です。,This is my house.,500-509 Noun
+家内,かない,my wife,家内は九州出身です。,My wife is from Kyushu.,500-509 Noun
+客,きゃく,"visitor, customer",その店は若い客が多いです。,That shop has a lot of young customers.,500-509 Noun
+空気,くうき,"air, atmosphere",ここは空気がきれいです。,The air here is clean.,510-519 Noun
+ホテル,ホテル,hotel,今ホテルに着きました。,I arrived at the hotel just now.,510-519 Noun
+気に入る,きにいる,"like, be pleased with",新しい靴がとても気に入りました。,I really like my new shoes.,510-519 Verb
+人気,にんき,"popularity, popular feeling, business conditions",このバンドはとても人気があるよ。,That band is very popular.,510-519 Noun
+雨,あめ,rain,雨が降っています。,It's raining.,510-519 Noun
+雪,ゆき,"snow, snowfall",クリスマスに雪が降りました。,It snowed at Christmas.,510-519 Noun
+まとめる,まとめる,"gather together, put in order",彼女は荷物をまとめて出て行った。,She packed her luggage and left.,510-519 Verb
+青い,あおい,blue,ここの海はとても青い。,The sea here is very blue.,510-519 Adjective
+青,あお,"blue, green, green light",私の好きな色は青です。,My favorite color is blue.,510-519 Noun
+晴れ,はれ,"fine weather, clear sky",明日の天気は晴れです。,Tomorrow's weather will be sunny.,510-519 Noun
+明らか,あきらか,"clear, obvious",明らかに彼が悪い。,It's clearly his fault.,520-529 Adjective
+やはり,やはり,"as expected, also, still",彼はやはり遅刻しました。,"He was late, as expected.",520-529 Adverb
+明るい,あかるい,"bright, cheerful",彼女は明るい性格です。,She has a cheerful personality.,520-529 Adjective
+明日,あした,tomorrow,明日、会社を休みます。,I'm off work tomorrow.,520-529 Noun
+暗い,くらい,"dark, dreary, shadowy",東の空が暗いです。,The eastern sky is dark.,520-529 Adjective
+昨年,さくねん,last year,昨年は地震が多い年でした。,Last year there were a lot of earthquakes.,520-529 Noun
+はっきり,はっきり,clearly,今日は山がはっきり見える。,You can see the mountains clearly today.,520-529 Adverb
+一昨年,おととし,the year before last,一昨年初めて京都へ旅行しました。,I first traveled to Kyoto the year before last.,520-529 Noun
+一昨日,おととい,day before yesterday,一昨日彼から電話がありました。,There was a phone call from him the day before yesterday.,520-529 Noun
+東,ひがし,"east, eastern",東の空が暗いです。,The eastern sky is dark.,520-529 Noun
+西,にし,"west, western",太陽は西に沈みます。,The sun sets in the west.,530-539 Noun
+つまり,つまり,"in short, basically",つまり、あなたは何も知らないのですね。,"So, basically, you don't know anything.",530-539 Adverb
+南,みなみ,south,私の家は町の南にあります。,My house is in the south of the town.,530-539 Noun
+北,きた,north,ロシアは日本の北にあります。,Russia is north of Japan.,530-539 Noun
+方向,ほうこう,"direction, course",あの人たちは皆、同じ方向を見ている。,Those people are all looking in the same direction.,530-539 Noun
+向かう,むかう,"face, confront, head toward",今、会社に向かっています。,I'm heading for the office right now.,530-539 Verb
+ビル,ビル,building,私の会社はあのビルの8階です。,My company's on the eighth floor of that building.,530-539 Noun
+向こう,むこう,"the other side, the other party, opponent",友達は向こうにいます。,My friend is over there.,530-539 Noun
+向く,むく,"turn, face, look",こっちを向いてください。,Please turn this way.,530-539 Verb
+開く,あく,open,電車のドアが開きました。,The train door opened.,530-539 Verb
+聞こえる,きこえる,"hear, be heard",隣の部屋からテレビの音が聞こえる。,I can hear the sound of the television from the next room.,540-549 Verb
+もちろん,もちろん,"of course, no doubt",もちろん一緒に行きます。,Of course I'll go with you.,540-549 Adverb
+年間,ねんかん,period of one year,年間5万人がここを訪れます。,"This place gets 50,000 visitors a year.",540-549 Noun
+この間,このあいだ,"the other day, recently",この間彼女に会った。,I met her the other day.,540-549 Noun
+間,あいだ,interval,雲の間から月が出た。,The moon came out from between the clouds.,540-549 Noun
+人間,にんげん,"human being, people",人間の心は複雑です。,Man's mind is complex.,540-549 Noun
+かつて,かつて,"once, formerly",かつて私が学生だった頃のことです。,That was when I was still a student.,540-549 Adverb
+高さ,たかさ,height,"富士山の高さは3,776メートルです。","The height of Mt. Fuji is 3,776m.",540-549 Noun
+最大,さいだい,"biggest, largest",これは世界最大の船です。,This is the world's largest ship.,540-549 Noun
+初めて,はじめて,for the first time,東京に来るのは初めてです。,It's the first time I've been to Tokyo.,540-549 Adverb
+最初,さいしょ,"first, outset",5ページの最初を見てください。,Please look at the beginning of page 5.,550-559 Noun
+スポーツ,スポーツ,sport,あなたは何かスポーツをしていますか。,Which sport do you play?,550-559 Noun
+初め,はじめ,beginning,初めは上手くできませんでした。,I couldn't do it well at first.,550-559 Noun
+今後,こんご,"after this, in the future",今後ともよろしくお願いします。,I look forward to working with you in the future.,550-559 Noun
+後,のち,"after, afterwards",後に彼は総理大臣になりました。,He would later become Prime Minister.,550-559 Noun
+最後,さいご,"last, final",今日が夏休み最後の日だ。,Today's the last day of summer vacation.,550-559 Noun
+なぜ,なぜ,"why, for what reason",なぜ来なかったの。,Why didn't you come?,550-559 Adverb
+明後日,あさって,day after tomorrow,明後日は休日です。,The day after tomorrow's a holiday.,550-559 Noun
+牛,うし,"cattle, cow",牛が草を食べています。,The cow is eating grass.,550-559 Noun
+半分,はんぶん,half,お菓子を友達に半分あげた。,I gave half the sweets to a friend.,550-559 Noun
+半年,はんとし,half a year,日本に来て半年になります。,It has been half a year since I came to Japan.,560-569 Noun
+そのまま,そのまま,"like that, unchanged",そのままお待ちください。,Please just wait a bit.,560-569 Adverb
+半月,はんつき,half a month,半月前に日本に来ました。,I came to Japan half a month ago.,560-569 Noun
+半日,はんにち,half a day,今日は半日だけ仕事だ。,I'm working only a half-day today.,560-569 Noun
+毎朝,まいあさ,every morning,私は毎朝ジョギングをします。,I jog every morning.,560-569 Noun
+今朝,けさ,this morning,今朝から頭が痛い。,I've had a headache since this morning.,560-569 Noun
+もし,もし,"if, in case of",もし雨が降ったら、行きません。,I won't go if it rains.,560-569 Adverb
+昼休み,ひるやすみ,"noon recess, lunch break",昼休みに公園に行った。,I went to the park at lunchtime.,560-569 Noun
+昼前,ひるまえ,"in the morning, before noon",昼前に会議があった。,There was a meeting in the morning.,560-569 Noun
+昼間,ひるま,"daytime, day",昼間は仕事で忙しいです。,I'm busy with work in the daytime.,560-569 Noun
+毎晩,まいばん,every evening,姉は毎晩日記を書いています。,My older sister writes in her diary every evening.,570-579 Noun
+つもり,つもり,"intention, purpose",明日からタバコを止めるつもりです。,I'll stop smoking as of tomorrow.,570-579 Noun
+今夜,こんや,"tonight, this evening",今夜は月がとてもきれいです。,The moon is very beautiful tonight.,570-579 Noun
+昨夜,ゆうべ,"last night, last evening",昨夜、流れ星を見ました。,I saw some shooting stars last night.,570-579 Noun
+夜中,よなか,"midnight, dead of night",夜中に電話がありました。,I got a telephone call in the middle of the night.,570-579 Noun
+夕方,ゆうがた,evening,夕方そちらに着きます。,I'll arrive there in the evening.,570-579 Noun
+やっと,やっと,"at last, finally",やっと仕事が終わりました。,"Finally, I finished my work.",570-579 Adverb
+昼食,ちゅうしょく,lunch,昼食に寿司を食べました。,I ate sushi for lunch.,570-579 Noun
+朝食,ちょうしょく,breakfast,朝食に納豆を食べました。,I ate natto for breakfast.,570-579 Noun
+夕食,ゆうしょく,supper,夕食は7時です。,Dinner's at seven o'clock.,570-579 Noun
+夕飯,ゆうはん,"evening meal, supper",夕飯は寿司でした。,Dinner was sushi.,580-589 Noun
+ニュース,ニュース,news,夜のニュースを見ましたか。,Did you see the evening news?,580-589 Noun
+見方,みかた,"view, way of looking",彼に対する見方が変わりました。,My view of him has changed.,580-589 Noun
+花見,はなみ,flower viewing,友達と花見をしました。,I went cherry blossom-viewing with a friend.,580-589 Noun
+言い方,いいかた,"way of speaking, expression",そんな言い方をしてはいけません。,You mustn't talk like that.,580-589 Noun
+話,はなし,"talk, story",あなたの話は面白いね。,Your story's interesting.,580-589 Noun
+ずっと,ずっと,"all day, from start to finish",父は休みの日はずっとテレビを見ている。,My father spends his days off watching television all the time.,580-589 Adverb
+読み,よみ,"reading, judgment, foresight",母に読み書きを習いました。,I learned reading and writing from my mother.,580-589 Noun
+読み方,よみかた,"way of reading, reading",この漢字の読み方を教えてください。,Please tell me how to read this Chinese character.,580-589 Noun
+語る,かたる,to talk about; to tell,今夜は大いに語りましょう。,Let's talk about everything tonight.,580-589 Verb
+言語,げんご,language,彼はアジアの言語を研究している。,He's doing research in Asian languages.,590-599 Noun
+ビデオ,ビデオ,video,私はその番組をビデオに撮った。,I recorded that program on video.,590-599 Noun
+英語,えいご,English,あなたは英語が話せますか。,Can you speak English?,590-599 Noun
+文字,もじ,"character, letter",壁に文字が書いてあった。,There was some writing on the wall.,590-599 Noun
+ローマ字,ろーまじ,Roman alphabet,ローマ字で名前を書いてください。,Please write your name using Roman letters.,590-599 Noun
+字,じ,"character, letter",もっと大きく字を書いてください。,Please write the letters larger.,590-599 Noun
+マンション,マンション,"apartment, apartment block, condominium",彼はマンションに住んでいます。,He lives in an apartment.,590-599 Noun
+書き方,かきかた,"how to write, way of writing",彼はその漢字の書き方が分からない。,He doesn't know how to write that Chinese character.,590-599 Noun
+覚める,さめる,"awake, wake up",今朝は6時に目が覚めた。,I woke up at six o'clock this morning.,590-599 Verb
+覚ます,さます,"awaken, wake up",子供が目を覚ました。,The child woke up.,590-599 Verb
+大会,たいかい,"mass meeting, tournament",夏には川辺で花火大会があります。,There are fireworks by the river in summer.,600-609 Noun
+しばらく,しばらく,a while,そこでしばらく休んでいます。,He's resting over there for a while.,600-609 Adverb
+会話,かいわ,conversation,親子の会話は大切です。,Conversation between parents and children is important.,600-609 Verbal Noun
+話し合う,はなしあう,"discuss, talk over",私たちはよく話し合いました。,We often talked to each other.,600-609 Verb
+合う,あう,fit,この靴は私の足に合っている。,These shoes fit me.,600-609 Verb
+間に合う,まにあう,"be in time, serve the purpose",授業に間に合いました。,I made it in time for class.,600-609 Verb
+ガス,ガス,gas,地震でガスが止まった。,The gas got cut off due to the earthquake.,600-609 Noun
+会社,かいしゃ,"company, corporation",彼は小さな会社に勤めています。,He's working for a small business firm.,600-609 Noun
+社会,しゃかい,society,これは大きな社会問題になっている。,This is a major social issue.,600-609 Noun
+社員,しゃいん,"staff member, employee",彼は優秀な社員です。,He's an excellent employee.,600-609 Noun
+仕方,しかた,"way, method",ファイルのダウンロードの仕方が分かりません。,I don't know how to download the file.,610-619 Noun
+うまい,うまい,good at,彼は野球がうまい。,He's good at baseball.,610-619 Adjective
+食事,しょくじ,"meal, dinner",今日は上司と食事をする。,I'm eating with the boss today.,610-619 Verbal Noun
+火事,かじ,fire,火事です。119番に電話してください。,There's a fire. Please call 119.,610-619 Noun
+大事,だいじ,importance,お体をお大事に。,Take care of yourself.,610-619 Adjectival Noun
+事故,じこ,"accident, incident",彼は事故で怪我をしました。,He was injured in the accident.,610-619 Noun
+サラリーマン,サラリーマン,"office worker, salaried worker, company employee",父はサラリーマンです。,My father's a company employee.,610-619 Noun
+工事,こうじ,construction,工事の音がうるさい。,The construction site is noisy.,610-619 Verbal Noun
+工場,こうじょう,"factory, plant",彼は食品工場で働いています。,He's working at the food factory.,610-619 Noun
+電話,でんわ,"telephone, phone call",あとで電話します。,I will call you later.,610-619 Verbal Noun
+電気,でんき,"electricity, electric light",電気をつけてください。,Please turn on the light.,620-629 Noun
+バス,バス,bus,バスで行こう。,Let's go by bus.,620-629 Noun
+車,くるま,car,この道は車が多い。,There are many cars on this road.,620-629 Noun
+駅員,えきいん,station employee,駅員に聞きましょう。,Let's ask the station employee.,620-629 Noun
+通り,とおり,"passage, street",この通りはにぎやかですね。,"This street is lively, isn't it?",620-629 Noun
+通る,とおる,"pass, take, go through",毎日、この道を通ります。,I take this road every day.,620-629 Verb
+クラス,クラス,class,この学校は1クラス30人です。,In this school there are 30 people per class.,620-629 Noun
+通う,かよう,"go to and from, frequent a place",私はジムに通っています。,I go to a gym.,620-629 Verb
+交通事故,こうつうじこ,traffic accident,彼は交通事故を起こした。,He caused a traffic accident.,620-629 Noun
+水道,すいどう,water supply,東京は水道の水が不味い。,Tap water in Tokyo doesn't taste good.,620-629 Noun
+車道,しゃどう,"road, roadway",車道の工事が始まりました。,The construction of the roadway started.,630-639 Noun
+トラック,トラック,"truck, lorry",トラックを運転できますか。,Can you drive a truck?,630-639 Noun
+道路,どうろ,"road, street",この道路は3年前にできました。,This road was completed three years ago.,630-639 Noun
+土地,とち,land,ここは父の土地です。,This is my father's land.,630-639 Noun
+地図,ちず,"map, atlas",地図を見て来てください。,Please look at the map to get here.,630-639 Noun
+他,た,"others, other things",留学生はアジア人が多く、その他は3割です。,"The majority of foreign students are Asian, with 30 percent from other regions.",630-639 Noun
+パーティー,パーティー,party,明日、うちでパーティーを開きます。,Tomorrow I'm having a party at my house.,630-639 Verbal Noun
+止める,とめる,"stop, turn off",車を止めて。,Stop the car.,630-639 Verb
+止まる,とまる,"come to a stop, cease",今朝、事故で電車が止まりました。,The train stopped this morning due to an accident.,630-639 Verb
+止む,やむ,"stop, abate",雨が止みました。,The rain stopped.,630-639 Verb
+歩道,ほどう,"sidewalk, footpath",歩道を歩きましょう。,Let's walk on the pavement.,640-649 Noun
+うまい,うまい,"delicious, tasty",うまい寿司屋を見つけたよ。,I found a good sushi shop.,640-649 Adjective
+渡す,わたす,"carry across, hand over",彼に手紙を渡しました。,I handed him the letter.,640-649 Verb
+渡る,わたる,"cross, go across",私たちは歩いて橋を渡った。,We walked over the bridge.,640-649 Verb
+年度,ねんど,"fiscal year, school year",売り上げは年度によって違います。,Sales differ by fiscal year.,640-649 Noun
+今度,こんど,"this time, next time",今度はどこに行きたいですか。,Where do you want to go this time?,640-649 Noun
+ガラス,ガラス,glass,クリスタルガラスの花瓶を買いました。,I bought a crystal glass vase.,640-649 Noun
+何度,なんど,how many times,あの店には何度も行きました。,I've been to that shop many times.,640-649 Noun
+最近,さいきん,recently,それは最近話題の本ですね。,That's the book that people have been talking about lately.,640-649 Noun
+遠く,とおく,great distance,遠くに船が見えます。,I can see a ship in the distance.,640-649 Adverb
+社長,しゃちょう,president (of a company),おばは小さな会社の社長です。,My aunt is the president of a small firm.,650-659 Noun
+コース,コース,"course, route",私は日本語コースを取っています。,I'm taking a Japanese course.,650-659 Noun
+会長,かいちょう,"president, chairperson",初めに会長が挨拶した。,First was the chairman's greetings.,650-659 Noun
+長さ,ながさ,length,このケーブルの長さは1メートルです。,The length of this cable is one meter.,650-659 Noun
+長男,ちょうなん,eldest son,彼の長男は8才です。,His oldest son is eight years old.,650-659 Noun
+長女,ちょうじょ,eldest daughter,うちの長女は10歳です。,Our oldest daughter is ten.,650-659 Noun
+アパート,アパート,"apartment, flat, apartment house",彼はアパートに住んでいます。,He lives in an apartment.,650-659 Noun
+広がる,ひろがる,"spread out, reach",留学してから私の世界が広がった。,My world expanded after studying abroad.,650-659 Verb
+広さ,ひろさ,"area, extent",その家の広さはどれ位ですか。,How big is that house?,650-659 Noun
+全体,ぜんたい,"whole, total",全体の80パーセントが完成しました。,80 percent of the total was completed.,650-659 Noun
+全く,まったく,"entirely, truly, indeed",私には全く分かりません。,I don't understand at all.,660-669 Adverb
+レコード,レコード,record,ジャズのレコードをかけました。,I put on a jazz record.,660-669 Noun
+安全,あんぜん,"safety, security",安全が第一です。,Safety comes first.,660-669 Adjectival Noun
+一部,いちぶ,one part,計画を一部変更しましょう。,Let's change part of the plan.,660-669 Noun
+部分,ぶぶん,"part, section",この部分は問題ないです。,There's no problem with this part.,660-669 Noun
+国内,こくない,"domestic, internal",この携帯電話が使えるのは国内だけです。,You can only use this mobile phone domestically.,660-669 Noun
+どんどん,どんどん,knock,ドアをどんどんとたたいた。,I banged on the door.,660-669 Adverb
+全国,ぜんこく,the whole country,次は全国のお天気です。,And now for the nation's weather.,660-669 Noun
+外国,がいこく,foreign country,母はまだ外国に行ったことがありません。,My mother hasn't been abroad yet.,660-669 Noun
+国会,こっかい,"National Diet, parliament",国会が再開した。,The Diet reconvened.,660-669 Noun
+帰国,きこく,return to one's country,彼は帰国しました。,He returned to his country.,670-679 Verbal Noun
+カメラ,カメラ,camera,カメラが壊れた。,The camera broke.,670-679 Noun
+外国人,がいこくじん,foreigner,日本に住む外国人が増えています。,The number of foreigners living in Japan is increasing.,670-679 Noun
+外国語,がいこくご,foreign language,外国語を習うのは難しい。,Learning foreign languages is hard.,670-679 Noun
+世界,せかい,world,私は世界旅行をしたい。,I want to travel around the world.,670-679 Noun
+白,しろ,white,白は雪の色です。,White is the color of snow.,670-679 Noun
+テープ,テープ,"tape, cassette",彼女はその会話をテープに録音した。,She recorded the conversation on tape.,670-679 Noun
+黒い,くろい,"black, dark",彼女は黒いドレスを着ています。,She's wearing a black dress.,670-679 Adjective
+黒,くろ,black,黒のボールペンはありますか。,Do you have a black pen?,670-679 Noun
+赤ちゃん,あかちゃん,baby,ベッドで赤ちゃんが眠っています。,The baby's sleeping in the bed.,670-679 Noun
+赤,あか,"red, crimson",信号が赤に変わりました。,The traffic light changed to red.,680-689 Noun
+ビール,ビール,"beer, lager",夏はビールがとても美味しい。,Beer tastes really good in summer.,680-689 Noun
+銀行,ぎんこう,bank,銀行は3時まで開いています。,The bank is open until three o'clock.,680-689 Noun
+銀,ぎん,silver,彼は銀メダルを取った。,He got the silver medal.,680-689 Noun
+地下鉄,ちかてつ,subway,私は地下鉄で通勤しています。,I commute to work by subway.,680-689 Noun
+牛肉,ぎゅうにく,beef,夕食に牛肉を買った。,I bought beef for dinner.,680-689 Noun
+ページ,ページ,page,32ページを開いてください。,Please open to page 32.,680-689 Noun
+肉,にく,"flesh, meat",肉が焼けました。,The meat is cooked.,680-689 Noun
+魚,さかな,fish,肉と魚とどちらが好きですか。,"Which do you prefer, meat or fish?",680-689 Noun
+分野,ぶんや,"field, sphere",音楽は彼の得意な分野です。,Music is his field of specialty.,680-689 Noun
+野菜,やさい,vegetable,私は毎日たくさん野菜を食べます。,I eat a lot of vegetables every day.,690-699 Noun
+グラフ,グラフ,"chart, graph",彼は売上をグラフにした。,He made a chart of the sales figures.,690-699 Noun
+本屋,ほんや,"bookstore, bookseller",駅前に本屋があります。,There's a bookstore in front of the station.,690-699 Noun
+八百屋,やおや,"vegetable store, greengrocer",八百屋でみかんを買いました。,I bought a tangerine at the grocery store.,690-699 Noun
+そば屋,そばや,soba restaurant,昼はそば屋に行きました。,I went to a noodle shop for lunch.,690-699 Noun
+たばこ屋,たばこや,"cigarette shop, tobacco store",私はたばこ屋でライターを買った。,I bought a lighter from the cigarette shop.,690-699 Noun
+ポスト,ポスト,"post box, letter box",手紙をポストに入れました。,I put the letter in the mailbox.,690-699 Noun
+茶,ちゃ,tea (plain form),私たちは毎日お茶を飲みます。,We drink tea every day.,690-699 Noun
+お茶,おちゃ,tea (polite),お茶を入れましょうか。,Shall I make tea?,690-699 Noun
+茶わん,ちゃわん,"tea cup, rice bowl",茶わんにご飯をよそいました。,I put some rice into the rice bowl.,690-699 Noun
+味,あじ,"taste, flavor",この料理は味が薄い。,This food is tasteless.,700-709 Noun
+テスト,テスト,"test, exam",テストを始めてください。,Please start the test.,700-709 Verbal Noun
+未来,みらい,future,未来は誰にも分からない。,Nobody knows the future.,700-709 Noun
+週末,しゅうまつ,weekend,週末は家でゆっくりします。,On the weekend I relax at home.,700-709 Noun
+料理,りょうり,"cooking, dealing with something",母は料理が得意です。,My mother is good at cooking.,700-709 Verbal Noun
+無理,むり,"unreasonable, impossible, forced",5時までに家に帰るのは無理です。,I can't possibly get home by five o'clock.,700-709 Adjectival Noun
+あちこち,あちこち,all over,私たちは朝からあちこち散歩しました。,We strolled about here and there from the morning.,700-709 Noun
+無くす,なくす,"lose, get rid of",今日、鍵を無くしました。,I lost my key today.,700-709 Verb
+無くなる,なくなる,"disappear, run short, get lost",もうお金が無くなりました。,I've run out of money already.,700-709 Verb
+作文,さくぶん,"composition, essay",日本語で作文を書きました。,I wrote an essay in Japanese.,700-709 Noun
+用いる,もちいる,"use, make use of",彼はその詩を用いて自分の気持ちを伝えた。,He conveyed his feelings through poetry.,710-719 Verb
+ゴルフ,ゴルフ,golf,兄はゴルフを始めました。,My older brother started playing golf.,710-719 Noun
+用事,ようじ,"things to do, errand",父は用事で出掛けています。,My father is out running errands.,710-719 Noun
+交通費,こうつうひ,"traveling expense, transportation cost","会社までの交通費は一ヶ月8,000円です。","Transportation to the company costs 8,000 yen a month.",710-719 Noun
+消える,きえる,"to go out (lights), to disappear",突然、電気が消えた。,Suddenly the electricity went out.,710-719 Verb
+消しゴム,けしごむ,eraser,消しゴムを貸して下さい。,Please lend me your eraser.,710-719 Noun
+ラジオ,ラジオ,radio,彼女はラジオを聞いています。,She's listening to the radio.,710-719 Noun
+売れる,うれる,"sell, be in demand",今年の夏はクーラーがよく売れた。,Air conditioners sold well this summer.,710-719 Verb
+売り場,うりば,"sales floor, department",くつ売り場はどこですか。,Where is the shoe department?,710-719 Noun
+店員,てんいん,"clerk, salesperson",あの店員はとても親切です。,That shop clerk is very kind.,710-719 Noun
+売店,ばいてん,"booth, shop",駅の売店で雑誌を買った。,I bought a magazine at a shop in the station.,720-729 Noun
+タクシー,タクシー,"taxi, cab",タクシーを呼んでください。,Please call a taxi.,720-729 Noun
+商品,しょうひん,"goods, commodities",この商品はよく売れている。,This product is selling well.,720-729 Noun
+作品,さくひん,"work of art, piece",この絵はゴッホの作品だ。,This painting is one of van Gogh's works.,720-729 Noun
+販売,はんばい,"sale, selling",前売券は窓口で販売しています。,Advance tickets are being sold at the ticket window.,720-729 Verbal Noun
+二階,にかい,"second floor, upstairs",兄は二階にいます。,My elder brother is on the second floor.,720-729 Noun
+ゆっくり,ゆっくり,slowly,もっとゆっくり話してください。,Please speak more slowly.,720-729 Adverb
+段階,だんかい,stage,この段階では、決断するのはまだ早い。,"At this stage, it is still early to decide.",720-729 Noun
+階段,かいだん,"steps, flight of stairs",私たちは駅の階段をかけ上がった。,We ran up the station steps.,720-729 Noun
+段々,だんだん,"gradually, by degrees",段々仕事が楽しくなってきました。,My work has gradually become more enjoyable.,720-729 Adverb
+値段,ねだん,price,このベルトの値段は2500円でした。,"The price of this belt was 2,500 yen.",730-739 Noun
+レストラン,レストラン,restaurant,レストランでインド料理を食べました。,I ate Indian food at the restaurant.,730-739 Noun
+価格,かかく,"price, cost",ガソリンの価格がどんどん上がっている。,The price of gasoline keeps going up fast.,730-739 Noun
+合格,ごうかく,"passing an examination, eligibility",娘が入学試験に合格しました。,My daughter passed the university entrance exam.,730-739 Verbal Noun
+夏休み,なつやすみ,summer vacation,今日が夏休み最後の日だ。,Today's the last day of summer vacation.,730-739 Noun
+冬休み,ふゆやすみ,winter vacation,冬休みにお祖父ちゃんの家に行きます。,I'm going to grandpa's house during winter break.,730-739 Noun
+カード,カード,"card, credit card",支払いはカードでお願いします。,Please pay by card.,730-739 Noun
+四季,しき,the four seasons,日本には四季がある。,We have four seasons in Japan.,730-739 Noun
+暑さ,あつさ,"heat, summer heat",今年の夏は暑さが厳しい。,The heat this summer is overbearing.,730-739 Noun
+熱,ねつ,"heat, fever",昨日の夜、熱が出ました。,I had a fever last night.,730-739 Noun
+寒さ,さむさ,"coldness, cold",今日は厳しい寒さになるでしょう。,It will probably be extremely cold today.,740-749 Noun
+アルバイト,アルバイト,"casual job, student job, part-time job",兄はアルバイトをしています。,My big brother works part-time.,740-749 Verbal Noun
+暖める,あたためる,"warm, warm up, heat up",今、車を暖めています。,I'm warming up the car now.,740-749 Verb
+暖まる,あたたまる,get warm,まだ部屋が暖まらない。,The room hasn't warmed up yet.,740-749 Verb
+温度,おんど,temperature,今、部屋の温度は25度だ。,This room's temperature is currently 25 degrees.,740-749 Noun
+気温,きおん,temperature,今日の気温は26度です。,Today's temperature is 26 degrees.,740-749 Noun
+コピー,コピー,"copy, photocopy",会議で書類のコピーを配った。,I handed out copies of the document at the meeting.,740-749 Verbal Noun
+台,だい,"stand, platform",そこにちょうど良い台がある。,There's a table that's just right.,740-749 Noun
+風,かぜ,wind,今日は風が強いです。,The wind is strong today.,740-749 Noun
+台風,たいふう,typhoon,台風が近づいている。,The typhoon's getting closer.,740-749 Noun
+事情,じじょう,"circumstances, conditions",あなたの事情はよく分かりました。,I understand your situation well.,750-759 Noun
+ぶつかる,ぶつかる,"hit, bump into",車が電柱にぶつかった。,The car crashed into the telephone pole.,750-759 Verb
+情報,じょうほう,information,学生たちはインターネットでいろいろな情報を集めた。,The students gathered all kinds of information on the Internet.,750-759 Noun
+報告,ほうこく,report,昨日の会議について報告があります。,There's a report about yesterday's conference.,750-759 Verbal Noun
+新聞,しんぶん,newspaper,今日の新聞、どこに置いた?,Where did you put today's newspaper?,750-759 Noun
+新年,しんねん,New Year,新年明けましておめでとうございます。,Happy new year.,750-759 Noun
+フィルム,フィルム,film,旅行のためにたくさんフィルムを買った。,I bought a lot of film for the trip.,750-759 Noun
+良い,よい,"good, suitable, preferable",彼は良いところだけを強調した。,He only emphasized the strong points.,750-759 Adjective
+中心,ちゅうしん,"center, middle",ここが建物の中心です。,This is the center of the building.,750-759 Noun
+安心,あんしん,"peace of mind, relief",それを聞いて安心しました。,I was relieved to hear that.,750-759 Verbal Noun
+思い出す,おもいだす,"recollect, recall",大切な用事を思い出しました。,I just remembered something important I need to take care of.,760-769 Verb
+デパート,デパート,"department store, department",私はデパートで靴を買った。,I bought shoes at the department store.,760-769 Noun
+思い出,おもいで,"recollections, memory",旅行で楽しい思い出ができました。,I made wonderful memories during my trip.,760-769 Noun
+考え,かんがえ,"thought, view, idea",それは良い考えです。,That's a good idea.,760-769 Noun
+解決,かいけつ,"solution, settlement",トラブルがやっと解決した。,The problem has finally been solved.,760-769 Verbal Noun
+知らせる,しらせる,"let know, inform",皆に会議の日にちを知らせた。,I informed everyone of the day of the meeting.,760-769 Verb
+ベッド,ベッド,bed,彼はベッドで寝ています。,He's sleeping in the bed.,760-769 Noun
+能力,のうりょく,"ability, capacity",彼は能力のある社員です。,He's a resourceful employee.,760-769 Noun
+可能,かのう,"possible, potential",20キロのダイエットは可能だと思いますか。,Do you think it's possible to go on a twenty kilogram diet?,760-769 Adjectival Noun
+可,か,"permitted, OK",このアルバイトは「学生可」ですね。,"So, students can apply for this part-time job, right?",760-769 Noun
+郵便,ゆうびん,"mail service, mail",さっき郵便が届きました。,The mail has just arrived.,770-779 Noun
+コート,コート,"coat, jacket",寒かったのでコートを着た。,I put on a coat because it was cold.,770-779 Noun
+不便,ふべん,inconvenient,私の家は駅から遠くて不便です。,My house is inconveniently located far from the station.,770-779 Adjectival Noun
+郵便屋さん,ゆうびんやさん,mailman,郵便屋さんはもう来ましたか。,Has the postman already come?,770-779 Noun
+郵便局,ゆうびんきょく,post office,郵便局で切手を買いました。,I bought a stamp at the post office.,770-779 Noun
+交番,こうばん,police box,あそこの交番で道を聞きましょう。,Let's ask for directions at that police box.,770-779 Noun
+ノート,ノート,"note book, laptop",ノートを開いてください。,Please open your notebook.,770-779 Noun
+番地,ばんち,"house number, address",その建物の番地は分かりますか。,Do you know the building's house number?,770-779 Noun
+番号,ばんごう,"number, series of digits",この番号に電話してください。,Please call this number.,770-779 Noun
+場所,ばしょ,"place, space",会社の場所を教えてください。,Please tell me where the office is.,770-779 Noun
+近所,きんじょ,neighborhood,近所にカナダ人が住んでいる。,A Canadian lives in my neighborhood.,780-789 Noun
+ワイン,ワイン,wine,ワインを少し飲みました。,I drank a little wine.,780-789 Noun
+台所,だいどころ,kitchen,お母さんは台所にいます。,Mother's in the kitchen.,780-789 Noun
+住所,じゅうしょ,"one's dwelling, address",この住所に行ってください。,Please go to this address.,780-789 Noun
+便所,べんじょ,bathroom,便所はそこです。,The bathroom is there.,780-789 Noun
+有名,ゆうめい,famous,ボルドーはワインの生産で有名だ。,Bordeau is famous for wine production.,780-789 Adjectival Noun
+おかしい,おかしい,"strange, funny, suspicious",彼の様子がおかしい。,He's acting strange.,780-789 Adjective
+名字,みょうじ,surname,あなたの名字は何ですか。,What's your surname?,780-789 Noun
+氏名,しめい,full name,ここに住所と氏名を書いてください。,Please write your name and address here.,780-789 Noun
+各国,かっこく,each country,各国の代表がニューヨークに集まった。,Each country's representatives assembled in New York.,780-789 Noun
+町,まち,"town, neighborhood",あの町は緑を増やしています。,That town is increasing its greenery.,790-799 Noun
+トイレ,トイレ,toilet,トイレを掃除しましたか。,Did you clean the toilet?,790-799 Noun
+都市,とし,city,東京は日本一大きな都市です。,Tokyo is the largest city in Japan.,790-799 Noun
+都合,つごう,circumstances,今日は都合が悪くて行けません。,I can't go today because it's not convenient for me.,790-799 Noun
+朝御飯,あさごはん,breakfast,七時に朝御飯を食べました。,I ate breakfast at seven o'clock.,790-799 Noun
+買い物,かいもの,"shopping, purchase",母は買い物に出かけています。,My mother's gone shopping.,790-799 Verbal Noun
+キャンプ,キャンプ,"camping, camp",友達とキャンプに行った。,I went camping with a friend.,790-799 Verbal Noun
+荷物,にもつ,"baggage, package",彼の家に荷物を送りました。,I sent a package to his house.,790-799 Noun
+品物,しなもの,"goods, thing",その店は色々な品物を売っている。,The shop sells a lot of products.,790-799 Noun
+見物,けんぶつ,sightseeing,皆で東京見物をした。,We all went sightseeing in Tokyo.,790-799 Verbal Noun
+物,もの,"thing, object",彼女の家には物がたくさんあります。,There are a lot of things in her house.,800-809 Noun
+プラスチック,プラスチック,plastic,このカップはプラスチックです。,This cup is plastic.,800-809 Noun
+忘れ物,わすれもの,"something left behind, lost item",学校に忘れ物をしました。,I left something behind at school.,800-809 Noun
+重さ,おもさ,weight,この荷物の重さを計ってください。,Please weigh this luggage.,800-809 Noun
+配る,くばる,distribute,会議で書類を配った。,I handed out the document at the meeting.,800-809 Verb
+配達,はいたつ,delivery,彼は新聞配達をしている。,He's delivering newspapers.,800-809 Verbal Noun
+カラー,カラー,color,カラーコピーは一枚幾らですか。,How much is one color copy?,800-809 Noun
+心配,しんぱい,"worry, anxiety",明日のプレゼンテーションが心配だ。,I'm worried about tomorrow's presentation.,800-809 Verbal Noun
+見送る,みおくる,see (someone) off,彼が外国に行くのを見送りました。,I saw him off on his trip overseas.,800-809 Verb
+見送り,みおくり,seeing someone off,駅に友人の見送りに行きました。,I went to the station to see off a friend.,800-809 Verbal Noun
+受ける,うける,"receive, accept",彼は就職試験を受けた。,He took an exam to apply for a job.,810-819 Verb
+ピアノ,ピアノ,piano,昔、ピアノを習っていました。,I used to learn the piano.,810-819 Noun
+受け取る,うけとる,"receive, understand",彼からメールを受け取りました。,I got an email from him.,810-819 Verb
+取れる,とれる,"come off, be removed",シャツのボタンが取れた。,My shirt button came off.,810-819 Verb
+書き取る,かきとる,"write down, take notes",話しのポイントを書き取った。,I wrote down the main points of what was said.,810-819 Verb
+届く,とどく,"to reach, to arrive",昨日、父から手紙が届いた。,I got a letter from my father yesterday.,810-819 Verb
+スキー,スキー,"ski, skiing",冬はよくスキーに行きます。,We go skiing a lot in winter.,810-819 Noun
+届ける,とどける,"deliver, give notice",これを彼に届けてください。,Please send this to him.,810-819 Verb
+持つ,もつ,"maintain, last long",この車はよく持っているね。,This car has lasted a long time.,810-819 Verb
+金持ち,かねもち,wealthy person,彼は金持ちです。,He's rich.,810-819 Noun
+持って行く,もっていく,take,水を持って行きましょう。,Let's take some water with us.,820-829 Verb
+なかなか,なかなか,"not at all (with negative verb), hardly",荷物がなかなか届きません。,The parcel still hasn't arrived.,820-829 Adverb
+持って来る,もってくる,bring,そのいすを持って来てください。,Please bring that chair.,820-829 Verb
+打つ,うつ,"hit, strike",転んでひざを打ちました。,I fell down and hit my knee.,820-829 Verb
+投げる,なげる,"throw, abandon",ボールをこっちに投げてください。,Please throw the ball over here.,820-829 Verb
+生まれる,うまれる,be born,姉夫婦に男の子が生まれました。,My sister and her husband had a baby boy.,820-829 Verb
+プール,プール,pool,私は夏休みにプールに行った。,I went to the pool during summer vacation.,820-829 Noun
+生む,うむ,have children,うちのネコが子猫を生みました。,Our cat had kittens.,820-829 Verb
+女性,じょせい,"woman, female",そのパーティーに女性は何人来ますか。,How many women are coming to that party?,820-829 Noun
+生産,せいさん,production,ボルドーはワインの生産で有名だ。,Bordeau is famous for wine production.,820-829 Verbal Noun
+お土産,おみやげ,souvenir,父はお土産にお菓子を買ってきた。,My father bought some sweets as a souvenir.,830-839 Noun
+ホーム,ホーム,platform,もうすぐこのホームに電車が来ます。,The train will arrive on this platform soon.,830-839 Noun
+生活,せいかつ,living; life (one's daily existence),日本での生活は楽しいです。,Life in Japan is fun.,830-839 Verbal Noun
+生徒,せいと,"pupil, student",このクラスの生徒は30人です。,There are 30 students in this class.,830-839 Noun
+中学,ちゅうがく,junior high school,息子は中学に通っています。,My son goes to junior high.,830-839 Noun
+入学,にゅうがく,"enter a school, matriculate",妹は九月にアメリカの大学に入学します。,My little sister's entering college in the United States in September.,830-839 Verbal Noun
+エレベーター,エレベーター,elevator,エレベーターで下に降りましょう。,Let's take the elevator down.,830-839 Noun
+中学生,ちゅうがくせい,junior high school student,息子は中学生です。,My son is a junior high school student.,830-839 Noun
+小学生,しょうがくせい,elementary school student,うちの息子は来年、小学生になります。,Our son will start primary school next year.,830-839 Noun
+見学,けんがく,"inspection, field trip",今日、工場の見学に行きました。,We went on a field trip to a factory today.,830-839 Verbal Noun
+通学,つうがく,school commute,毎朝、通学に1時間かかる。,It takes me an hour to go to school every morning.,840-849 Verbal Noun
+メモ,メモ,"memorandum, memo pad",メモを取ってください。,Please take notes.,840-849 Noun
+高校,こうこう,high school,妹は高校に通っています。,My little sister goes to high school.,840-849 Noun
+小学校,しょうがっこう,elementary school,家の近くに小学校があります。,There's an elementary school near my house.,840-849 Noun
+中学校,ちゅうがっこう,junior high school,息子の中学校は家から5分です。,My son's junior high is five minutes from our house.,840-849 Noun
+校長,こうちょう,"principal, schoolmaster",あの人は高校の校長だ。,That person is a high school principal.,840-849 Noun
+パン,パン,bread,朝ご飯にはいつもパンを食べる。,I always eat bread for breakfast.,840-849 Noun
+休校,きゅうこう,temporary closure of school,学校は今週は休校です。,School is closed this week.,840-849 Verbal Noun
+教会,きょうかい,church,私たちは教会で結婚式をしました。,We had our wedding in a church.,840-849 Noun
+教育,きょういく,education,彼は海外で教育を受けました。,He received his education abroad.,840-849 Verbal Noun
+育てる,そだてる,bring up,彼女は三人の子を育てました。,She raised three children.,850-859 Verb
+びっくりする,びっくりする,to be surprised,大きな音にびっくりしました。,I was startled by a sudden sound.,850-859 Verb
+育つ,そだつ,"be brought up, grow",野菜がよく育っている。,The vegetables are growing well.,850-859 Verb
+制度,せいど,"system, organization",来年から新しい制度が始まります。,A new system will start from next year.,850-859 Noun
+強さ,つよさ,"strength, power",風の強さに驚きました。,I was surprised by the strength of the wind.,850-859 Noun
+取引,とりひき,"transaction, dealings",私たちは中国の会社と取引しています。,We're dealing with a Chinese company.,850-859 Verbal Noun
+ズボン,ズボン,"trousers, pants",ズボンが汚れた。,My trousers got dirty.,850-859 Noun
+引き出し,ひきだし,"drawer, withdrawal",財布は引き出しの中にあります。,My purse is in the drawer.,850-859 Noun
+押さえる,おさえる,hold down,ドアを押さえてください。,Please hold the door.,850-859 Verb
+押し入れ,おしいれ,closet,布団を押し入れにしまいました。,I put my futon in the closet.,850-859 Noun
+練習,れんしゅう,"practice, training",娘は今、バイオリンを練習しています。,My daughter is practicing the violin now.,860-869 Verbal Noun
+おもちゃ,おもちゃ,"toy, plaything",赤ちゃんが自動車のおもちゃで遊んでいる。,The baby's playing with the toy car.,860-869 Noun
+習う,ならう,"learn, study",彼は空手を習っています。,He's learning karate.,860-869 Verb
+慣れる,なれる,grow accustomed to,新しい家にはもう慣れましたか。,Have you gotten used to the new house yet?,860-869 Verb
+習慣,しゅうかん,"custom, habit",毎朝コーヒーを飲むのが習慣です。,I'm in the habit of drinking coffee every morning.,860-869 None
+研究,けんきゅう,"research, study",彼は何年も地震の研究をしている。,He's been researching earthquakes for many years.,860-869 Verbal Noun
+グラム,グラム,gram,ひき肉を200グラムください。,"Please give me 200 grams of ground (beef, chicken, etc.)",860-869 Noun
+試験,しけん,"test, examination",明日の試験、頑張ってね。,Good luck on tomorrow's exam.,860-869 Verbal Noun
+問題,もんだい,"problem, question",問題が一つあります。,There's one problem.,860-869 Noun
+簡単,かんたん,"simple, easy",この料理はとても簡単です。,This dish is very easy to make.,860-869 Adjectival Noun
+複雑,ふくざつ,"complicated, intricate",このプログラムはとても複雑です。,This program is very complicated.,870-879 Adjectival Noun
+コーヒー,コーヒー,coffee,私は毎朝コーヒーを飲みます。,I drink coffee every morning.,870-879 Noun
+数字,すうじ,"figure, numeral",数字は苦手です。,I'm not good with numbers.,870-879 Noun
+数学,すうがく,mathematics,兄は数学の先生です。,My big brother's a math teacher.,870-879 Noun
+数える,かぞえる,"count, calculate",いすの数を数えてください。,Please count the number of chairs.,870-879 Verb
+今回,こんかい,this time,まあ今回は許してあげよう。,"Well, I'll let you off this time.",870-879 Noun
+テント,テント,tent,みんなでテントを張りました。,We all put up the tent together.,870-879 Noun
+回る,まわる,"to turn, to revolve",月は地球のまわりを回っています。,The moon spins around the earth.,870-879 Verb
+回す,まわす,"turn, rotate",ねじは左に回すと外れます。,If you turn the screw to the left it will come undone.,870-879 Verb
+個人,こじん,individual,これは私個人の意見です。,This is my personal opinion.,870-879 Noun
+担当,たんとう,person in charge,私はセールスを担当しています。,I'm in charge of sales.,880-889 Verbal Noun
+ボート,ボート,boat,池でボートに乗りました。,I got on the boat at the pond.,880-889 Noun
+当たる,あたる,"hit, strike",ボールが彼の頭に当たった。,The ball hit him on the head.,880-889 Verb
+当時,とうじ,at that time,彼女は当時、まだ3才だった。,She was only three years old at the time.,880-889 Noun
+本当,ほんとう,"truth, reality",その話は本当ですか。,Is the story true?,880-889 Noun
+当然,とうぜん,"natural, as a matter of course",彼女が怒るのも当然だ。,It's natural that she should be angry.,880-889 Adjectival Noun
+ボール,ボール,ball,彼はボールを投げた。,He threw the ball.,880-889 Noun
+全然,ぜんぜん,"wholly, (not) at all (with negative verb)",この本は全然面白くなかった。,This book wasn't interesting at all.,880-889 Adverb
+方法,ほうほう,"method, procedure",いい方法を思いつきました。,We hit on a good method.,880-889 Noun
+法律,ほうりつ,law,新しい法律ができた。,A new law has been passed.,880-889 Noun
+規則,きそく,"rule, regulation",あの会社の規則は厳しいです。,That company's rules are strict.,890-899 Noun
+オートバイ,オートバイ,"motorbike, motorcycle",彼はオートバイに乗っている。,He rides a motorcycle.,890-899 Noun
+経験,けいけん,experience,今日の試合はいい経験になりました。,Today's game was a good experience.,890-899 Verbal Noun
+経つ,たつ,"pass, elapse",あれから14年が経ちました。,Fourteen years have passed since then.,890-899 Verb
+経済,けいざい,"economy, economics",大学で経済を勉強しました。,I studied economics in college.,890-899 Noun
+経営,けいえい,"management, operation",我が社の経営はうまくいっています。,Our company is well managed.,890-899 Verbal Noun
+ひどい,ひどい,"cruel, severe",妹とひどい喧嘩をした。,I had an awful fight with my little sister.,890-899 Adjective
+株,かぶ,"stocks, shares",最近株を始めました。,I recently started investing in stocks.,890-899 Noun
+企業,きぎょう,"corporation, business",彼女はアメリカの企業で働いています。,She works in an American company.,890-899 Noun
+作業,さぎょう,"work, operation",作業するにはもっと広いスペースが必要だ。,I need a bigger space to work.,890-899 Verbal Noun
+産業,さんぎょう,industry,日本の自動車産業は世界的に有名だ。,The Japanese auto industry is famous worldwide.,900-909 Noun
+あなた,あなた,you,この本、あなたにあげます。,I'll give you this book.,900-909 Noun
+工業,こうぎょう,(manufacturing) industry,そこは工業都市だ。,That's an industrial city.,900-909 Noun
+商業,しょうぎょう,"commerce, trade",この町では商業が盛んだ。,Business is thriving in this city.,900-909 Noun
+利用,りよう,"utilization, usage",私はよく図書館を利用します。,I often use the library.,900-909 Verbal Noun
+便利,べんり,"convenience, handiness",インターネットはとても便利です。,The Internet is very convenient.,900-909 Adjectival Noun
+スイッチ,スイッチ,switch,彼はカーラジオのスイッチを入れた。,He hit the switch on his car radio.,900-909 Noun
+技術,ぎじゅつ,"skill, technology",彼は非常に高い技術を持っている。,He has very advanced skills.,900-909 Noun
+手術,しゅじゅつ,surgical operation,父は胸の手術をした。,My father had a chest operation.,900-909 Verbal Noun
+製造,せいぞう,"production, manufacture",この工場ではエアコンを製造しています。,This factory manufactures air conditioning units.,900-909 Verbal Noun
+必ず,かならず,"without fail, certainly",必ずシートベルトを着けて下さい。,Always wear your seat belt.,910-919 Adverb
+プレゼント,プレゼント,"present, gift",誕生日にプレゼントをもらいました。,I got some presents on my birthday.,910-919 Verbal Noun
+必要,ひつよう,"need, necessity",私にはたくさんのお金が必要だ。,I need a lot of money.,910-919 Adjectival Noun
+重要,じゅうよう,"important, essential",これは重要な書類です。,This is an important document.,910-919 Adjectival Noun
+要求,ようきゅう,"demand, requirement",彼は私の要求にこたえた。,He answered my demands.,910-919 Verbal Noun
+目覚まし時計,めざましどけい,alarm clock,7時に目覚まし時計が鳴りました。,The alarm clock went off at seven o'clock.,910-919 Noun
+いつでも,いつでも,at any time; always,いつでもうちに来てください。,Please come to my house any time.,910-919 Adverb
+計算,けいさん,calculation,その計算は間違っている。,That calculation is wrong.,910-919 Verbal Noun
+引き算,ひきざん,subtraction,娘は学校で引き算を習っている。,My daughter's learning subtraction at school.,910-919 Verbal Noun
+足し算,たしざん,addition,娘は学校で足し算を習った。,My daughter learned addition in school.,910-919 Verbal Noun
+交差点,こうさてん,"crossing, intersection",次の交差点を左に曲がってください。,Please turn left at the next intersection.,920-929 Noun
+テニス,テニス,tennis,彼らはよくテニスをしています。,They often play tennis.,920-929 Verbal Noun
+割る,わる,"divide, crack, split",皿を落として割った。,I dropped the plate and broke it.,920-929 Verb
+割れる,われる,"crack, be divided, split",コップが落ちて割れた。,The glass fell and broke.,920-929 Verb
+割り算,わりざん,division,割り算は小学校で習います。,Division is learned in elementary school.,920-929 Verbal Noun
+残る,のこる,"remain, be left over",料理がたくさん残りました。,A lot of food was left over.,920-929 Verb
+こちら,こちら,"here, this way",受付はこちらです。,The reception desk is this way.,920-929 Noun
+残す,のこす,to leave (behind); to reserve,彼女はメッセージを残しました。,She left a message.,920-929 Verb
+返す,かえす,"return, repay",図書館に本を返した。,I returned the book to the library.,920-929 Verb
+返事,へんじ,"answer, reply",手紙の返事を出しました。,I sent a reply to the letter.,920-929 Verbal Noun
+借りる,かりる,borrow,彼にビデオを借りました。,I borrowed a video from him.,930-939 Verb
+ボタン,ボタン,button,ボタンを押してください。,Please press the button.,930-939 Noun
+貸す,かす,"lend, lease",私は彼に本を貸しています。,I'm lending him the book.,930-939 Verb
+貸し出す,かしだす,"lend, lend out",その本は貸し出し中です。,That book is currently on loan.,930-939 Verb
+申し込む,もうしこむ,"apply, make a proposal",彼女はそのセミナーに申し込んだ。,She registered for that workshop.,930-939 Verb
+期待,きたい,"expectation, anticipation",みんな私たちに期待しています。,Everyone has high expectations of us.,930-939 Verbal Noun
+おかしい,おかしい,"funny, amusing, comical",彼の話はおかしかった。,His story was funny.,930-939 Adjective
+期間,きかん,"period, term",テスト期間は10日から15日までだ。,The test period is from the 10th to the 15th.,930-939 Noun
+時期,じき,"time, season",今はあなたにとって大事な時期です。,It's an important time for you now.,930-939 Noun
+限る,かぎる,"to limit, to be limited to",このサービスは週末に限ります,This service is limited to weekends.,930-939 Verb
+急ぐ,いそぐ,"hurry, hasten",私たちは駅へ急ぎました。,We hurried to the station.,940-949 Verb
+コート,コート,court,新しいコートでテニスをしました。,I played tennis on the new court.,940-949 Noun
+急に,きゅうに,"suddenly, unexpectedly",急に用事を思い出した。,I suddenly remembered I have something to do.,940-949 Adverb
+急,きゅう,"urgent, dire, pressing",急な坂道を上った。,I went up the steep hill.,940-949 Adjectival Noun
+急行,きゅうこう,"express train, going in a hurry",ちょうど急行電車が来た。,The express train just came.,940-949 Noun
+切れる,きれる,"run out, expire, can cut",このはさみはよく切れますね。,These scissors cut well.,940-949 Verb
+ドラマ,ドラマ,"drama, theater, soap opera",私はドラマを見るのが好きです。,I like to watch TV dramas.,940-949 Noun
+切手,きって,postage stamp,郵便局で切手を買いました。,I bought a stamp at the post office.,940-949 Noun
+売り切れる,うりきれる,"be sold out, go out of stock",その本は直ぐ売り切れた。,The book sold out quickly.,940-949 Verb
+売り切れ,うりきれ,"sellout, sold out",チケットはもう売り切れだって。,The tickets have sold out already.,940-949 Noun
+大切,たいせつ,"important, valuable",これは母が大切にしていた指輪です。,This is a ring that meant a lot to my mother.,950-959 Adjectival Noun
+ビザ,ビザ,visa,学生ビザを持っています。,He has a student visa.,950-959 Noun
+切符,きっぷ,ticket,東京までの切符を買った。,I bought a ticket to Tokyo.,950-959 Noun
+入場券,にゅうじょうけん,entrance ticket,入場券は3000円です。,"The admission ticket is 3,000 yen.",950-959 Noun
+家賃,やちん,rent,ここの家賃は12万円です。,"The rent here is 120,000 yen.",950-959 Noun
+時代,じだい,"era, antiquity",今は便利さとスピードの時代だ。,This is the age of convenience and speed.,950-959 Noun
+ポケット,ポケット,pocket,財布をポケットにしまった。,I put my wallet in my pocket.,950-959 Noun
+代わる,かわる,"substitute, be substituted for",上司に代わって会議に出た。,I attended the conference in place of my boss.,950-959 Verb
+代える,かえる,"substitute, use in place of",社長に代えて部長を出席させます。,I'll have the department manager attend in place of the president.,950-959 Verb
+指,ゆび,"finger, toe",彼は指が太い。,His fingers are fat.,950-959 Noun
+決定,けってい,"decision, settlement",会議で重要な決定がありました。,An important decision was made at the conference.,960-969 Verbal Noun
+そろそろ,そろそろ,"soon, quietly",そろそろ始めましょうか。,It's about time to begin.,960-969 Adverb
+一定,いってい,"constant, standardized",申し込むには一定の資格が要る。,You need certain qualifications to apply.,960-969 Verbal Noun
+定期券,ていきけん,commuter's pass,定期券は1万2千円でした。,"The commuter pass was 1,2000 yen.",960-969 Noun
+予定,よてい,"schedule, plan",今日の予定を教えてください。,Please tell me what your schedule is for today.,960-969 Verbal Noun
+天気予報,てんきよほう,weather forecast,明日の天気予報は雨です。,Rain is forecast for tomorrow.,960-969 Noun
+ぶどう,ぶどう,grapes,私はぶどうが好きです。,I like grapes.,960-969 Noun
+予習,よしゅう,preparation for a lesson,明日の予習をしましょう。,Let's prepare for tomorrow.,960-969 Verbal Noun
+予約,よやく,"reservation, subscription",レストランを予約しました。,I made a reservation at the restaurant.,960-969 Verbal Noun
+約束,やくそく,"promise, vow",約束は守ります。,I keep my promises.,960-969 Verbal Noun
+変わる,かわる,change,信号が青に変わりました。,The traffic light turned green.,970-979 Verb
+めったに,めったに,rarely,彼女はめったに怒りません。,She rarely gets angry.,970-979 Adverb
+大変,たいへん,"awful, serious",大変なことが起こりました。,A terrible thing happened.,970-979 Adjectival Noun
+変,へん,"strange, weird, funny",変な音が聞こえます。,I hear a strange sound.,970-979 Adjectival Noun
+変化,へんか,change,今年は変化の多い年でした。,There was a lot of change this year.,970-979 Verbal Noun
+強化,きょうか,strengthening,国は国語教育を強化しています。,Our government is strengthening its program in native language education.,970-979 Verbal Noun
+クリスマス,クリスマス,Christmas,クリスマスにはケーキを食べます。,We eat cake at Christmas.,970-979 Noun
+文化,ぶんか,culture,私はこの国の文化を勉強しています。,I'm studying this country's culture.,970-979 Noun
+増える,ふえる,"increase, accrue",この町は人口が増えた。,The population has increased in this town.,970-979 Verb
+増やす,ふやす,"increase, add",あの町は緑を増やしています。,That town is increasing its greenery.,970-979 Verb
+減る,へる,"decrease, diminish",体重がかなり減りました。,I've lost a lot of weight.,980-989 Verb
+ネクタイ,ネクタイ,"tie, necktie",父の日にネクタイをプレゼントした。,I gave him a tie on Father's Day.,980-989 Noun
+減らす,へらす,"decrease, reduce",最近、食事を減らしています。,I've been eating less recently.,980-989 Verb
+乗り物,のりもの,vehicle,自転車は便利な乗り物です。,Bicycles are a convenient form of transport.,980-989 Noun
+降りる,おりる,"get off, descend",次の駅で降ります。,I get off at the next station.,980-989 Verb
+降ろす,おろす,"unload, set down (下ろす)",彼は車から荷物を降ろした。,He unloaded the luggage from the car.,980-989 Verb
+バイオリン,バイオリン,violin,彼女はバイオリンを習っています。,She's learning the violin.,980-989 Noun
+降る,ふる,"fall, come down",激しい雨が降っています。,A very heavy rain is falling.,980-989 Verb
+着く,つく,arrive,午後8時に大阪に着きます。,I arrive in Osaka at 8:00 pm.,980-989 Verb
+着物,きもの,"clothes, kimono",彼女は着物がよく似合います。,She looks good in a kimono.,980-989 Noun
+下着,したぎ,underwear,私は下着を手で洗う。,I wash my underwear by hand.,990-999 Noun
+パスポート,パスポート,passport,パスポートが見つからない。,I can't find my passport.,990-999 Noun
+上着,うわぎ,"coat, jacket",暑いので上着を脱ぎました。,I took my jacket off because it was hot.,990-999 Noun
+着せる,きせる,to put clothes on (someone),娘に可愛いドレスを着せた。,I dressed my daughter in a cute dress.,990-999 Verb
+脱ぐ,ぬぐ,"remove clothes, take off",靴を脱いでください。,Please take off your shoes.,990-999 Verb
+立場,たちば,"standpoint, position",彼女は自分の立場を分かっていない。,She doesn't understand her position.,990-999 Noun
+バッグ,バッグ,bag,私は黒いバッグを持っています。,I have a black bag.,990-999 Noun
+目立つ,めだつ,"stand out, be conspicuous",彼女の大きな帽子はとても目立つ。,Her big hat really stands out.,990-999 Verb
+立てる,たてる,"stand, set up, establish",彼はケーキにろうそくを立てた。,He stuck the candles into the cake.,990-999 Verb
+役に立つ,やくにたつ,"be useful, be helpful",私は人々の役に立ちたいと思っています。,I want to be of service to others.,990-999 Verb
+出席,しゅっせき,"attendance, presence",午後は会議に出席します。,I'll attend a meeting in the afternoon.,1000-1009 Verbal Noun

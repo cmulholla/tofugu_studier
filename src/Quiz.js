@@ -48,6 +48,7 @@ function Quiz({ data, quizOptions, SetAnswers }) {
   // if data is empty, go back to the main page
   if (data === undefined || data.length === 0) {
     window.location.href = '/';
+    console.log("Error: data is missing");
     console.log(data);
   }
   else {
@@ -72,7 +73,6 @@ function Quiz({ data, quizOptions, SetAnswers }) {
   let frontIndex = -1;
   let backIndex = -1;
   let tagIndex = -1;
-  // TODO: instead of assuming a single tag, accept an array of tags
   for (let i = 0; i < data[0].length; i++) {
     //console.log(data[0][i], colFront, colBack);
     if (data[0][i] === 'tags') {
@@ -89,6 +89,7 @@ function Quiz({ data, quizOptions, SetAnswers }) {
   // if the front or back column is missing, go back to the main page
   if (frontIndex === -1 || backIndex === -1) {
     window.location.href = '/';
+    console.log("Error: front or back column is missing");
     console.log(quizOptions);
     console.log(colFront, colBack);
   }
@@ -96,26 +97,43 @@ function Quiz({ data, quizOptions, SetAnswers }) {
   // find the rows in the tag column that contain the tag, and store them in taggedData
   // TODO: instead of assuming a single tag, accept an array of tags
   let taggedData = [];
+
+  let tags = tag.split(",");
+
   for (let i = 1; i < data.length; i++) {
-    if (data[i][tagIndex] === undefined) {
-      continue;
-    }
-    // if any row has an empty cell in the frontIndex or backIndex, skip
-    if (data[i][frontIndex].replace(" ", "") === '' || data[i][backIndex].replace(" ", "") === '') {
-      continue;
-    }
-    let elmTags = data[i][tagIndex].split(" ");
-    if (elmTags.includes(tag)) {
-      taggedData.push(data[i]);
+    for (let j = 0; j < tags.length; j++) {
+      if (data[i][tagIndex] === undefined) {
+        continue;
+      }
+      // if any row has an empty cell in the frontIndex or backIndex, skip
+      if (data[i][frontIndex].replace(/ /g, "") === '' || data[i][backIndex].replace(/ /g, "") === '') {
+        continue;
+      }
+      let dataTags = data[i][tagIndex].split(" ");
+      let pushed = false;
+      for (let k = 0; k < dataTags.length; k++) {
+        if (dataTags[k] === tags[j]) {
+          taggedData.push(data[i]);
+          pushed = true;
+          break;
+        }
+      }
+      if (pushed) {
+        break;
+      }
     }
   }
+
+  // shuffle the data
+  const [shuffledData] = useState(taggedData.sort(() => Math.random() - 0.5));
+  taggedData = shuffledData;
 
   return (
     <>
       <style href={"stylesheet"} precedence="medium">
           {styles}
       </style>
-      <h1>Quiz: {tag}</h1>
+      <h1>Quiz: {tag.replace(/,/g, ", ")}</h1>
       {taggedData.map((row, index) => (
         <QuizNode
         key={index}
@@ -126,6 +144,7 @@ function Quiz({ data, quizOptions, SetAnswers }) {
         SetAnswers={SetAnswers}
       />
       ))}
+      <br />
       <Link to={`/results/${tag}`}>
         <button type="button">
           Finish Quiz

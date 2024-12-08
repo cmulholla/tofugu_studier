@@ -1,0 +1,130 @@
+kanji,kana,meaning,tags
+大学,だいがく,college; university,School Vocabulary
+高校,こうこう,high school,School Vocabulary
+学生,がくせい,student,School Vocabulary
+大学生,だいがくせい,college student,School Vocabulary
+留学生,りゅうがくせい,international student,School Vocabulary
+先生,せんせい,teacher; professor,School Vocabulary
+～年生,～ねんせい,...year student,School Vocabulary
+一年生,いちねんせい,first-year student,School Vocabulary
+専攻,せんこう,major,School Vocabulary
+私,わたし,I,People_and_Time Vocabulary
+友達,ともだち,friend,People_and_Time Vocabulary
+～さん,～さん,Mr./Ms. ...,People_and_Time Vocabulary
+～人,～じん,...people,People_and_Time Vocabulary
+日本人,にほんじん,Japanese people,People_and_Time Vocabulary
+今,いま,now,People_and_Time Vocabulary
+午前,ごぜん,A.M.,People_and_Time Vocabulary
+午後,ごご,P.M.,People_and_Time Vocabulary
+～時,～じ,o'clock,People_and_Time Vocabulary
+一時,いちじ,one o'clock,People_and_Time Vocabulary
+半,はん,half,People_and_Time Vocabulary
+二時半,にじはん,half past two,People_and_Time Vocabulary
+日本,にほん,Japan,Others_and_Expressions Vocabulary
+アメリカ,アメリカ,U.S.A.,Others_and_Expressions Vocabulary
+～語,～ご,...language,Others_and_Expressions Vocabulary
+日本語,にほんご,Japanese language,Others_and_Expressions Vocabulary
+～歳,～さい,...years old,Others_and_Expressions Vocabulary
+電話,でんわ,telephone,Others_and_Expressions Vocabulary
+～番,～ばん,number...,Others_and_Expressions Vocabulary
+番号,ばんごう,number,Others_and_Expressions Vocabulary
+名前,なまえ,name,Others_and_Expressions Vocabulary
+何,なん／なに,what,Others_and_Expressions Vocabulary
+あのう,あのう,um...,Others_and_Expressions Vocabulary
+はい,はい,yes,Others_and_Expressions Vocabulary
+そうです,そうです,That's right.,Others_and_Expressions Vocabulary
+そうですか,そうですか,I see.; Is that so?,Others_and_Expressions Vocabulary
+イギリス,イギリス,Britain,Countries Vocabulary
+オーストラリア,オーストラリア,Australia,Countries Vocabulary
+韓国,かんこく,Korea,Countries Vocabulary
+カナダ,カナダ,Canada,Countries Vocabulary
+中国,ちゅうごく,China,Countries Vocabulary
+インド,インド,India,Countries Vocabulary
+エジプト,エジプト,Egypt,Countries Vocabulary
+フィリピン,フィリピン,Philippines,Countries Vocabulary
+日本,にほん,Japan,Countries Vocabulary
+アメリカ,アメリカ,U.S.A.,Countries Vocabulary
+国,くに,Country,Countries Vocabulary
+アジア研究,アジアけんきゅう,Asian studies,Majors Vocabulary
+経済,けいざい,economics,Majors Vocabulary
+工学,こうがく,engineering,Majors Vocabulary
+国際関係,こくさいかんけい,international relations,Majors Vocabulary
+コンピューター,コンピューター,computer,Majors Vocabulary
+政治,せいじ,politics,Majors Vocabulary
+生物学,せいぶつがく,biology,Majors Vocabulary
+ビジネス,ビジネス,business,Majors Vocabulary
+文学,ぶんがく,literature,Majors Vocabulary
+歴史,れきし,history,Majors Vocabulary
+専攻,せんこう,major,Majors Vocabulary
+医者,いしゃ,doctor,Occupations Vocabulary
+会社員,かいしゃいん,office worker,Occupations Vocabulary
+看護師,かんごし,nurse,Occupations Vocabulary
+高校生,こうこうせい,high school student,Occupations Vocabulary
+主婦,しゅふ,housewife,Occupations Vocabulary
+大学院生,だいがくいんせい,graduate student,Occupations Vocabulary
+弁護士,べんごし,lawyer,Occupations Vocabulary
+仕事,しごと,job; occupation,Occupations Vocabulary
+お母さん,おかあさん,mother,Family Vocabulary
+お父さん,おとうさん,father,Family Vocabulary
+お姉さん,おねえさん,older sister,Family Vocabulary
+お兄さん,おにいさん,older brother,Family Vocabulary
+妹,いもうと,younger sister,Family Vocabulary
+弟,おとうと,younger brother,Family Vocabulary
+家族,かぞく,family,Family Vocabulary
+～年生,～ねんせい,...year student,Practice_Vocabulary Year_in_School
+一年生,いちねんせい,first-year student,Practice_Vocabulary Year_in_School
+二年生,にねんせい,second-year student,Practice_Vocabulary Year_in_School
+三年生,さんねんせい,third-year student,Practice_Vocabulary Year_in_School
+四年生,よねんせい,fourth-year student,Practice_Vocabulary Year_in_School
+五年生,ごねんせい,fifth-year student,Practice_Vocabulary Year_in_School
+六年生,ろくねんせい,sixth-year student,Practice_Vocabulary Year_in_School
+～歳,～さい,...years old,Age Practice_Vocabulary
+一歳,いっさい,one year old,Age Practice_Vocabulary
+二歳,にさい,two years old,Age Practice_Vocabulary
+三歳,さんさい,three years old,Age Practice_Vocabulary
+四歳,よんさい,four years old,Age Practice_Vocabulary
+五歳,ごさい,five years old,Age Practice_Vocabulary
+六歳,ろくさい,six years old,Age Practice_Vocabulary
+七歳,ななさい,seven years old,Age Practice_Vocabulary
+八歳,はっさい,eight years old,Age Practice_Vocabulary
+九歳,きゅうさい,nine years old,Age Practice_Vocabulary
+十歳,じ(ゅ)っさい,ten years old,Age Practice_Vocabulary
+十一歳,じゅういっさい,eleven years old,Age Practice_Vocabulary
+二十歳／二十歳,はたち／にじ(ゅ)っさい,twenty years old,Age Practice_Vocabulary
+二十一歳,にじゅういっさい,twenty-one years old,Age Practice_Vocabulary
+三十五歳,さんじゅうごさい,thirty-five years old,Age Practice_Vocabulary
+四十歳,よんじ(ゅ)っさい,forty years old,Age Practice_Vocabulary
+一時,いちじ,01:00,Practice_Vocabulary Time_(Hours)
+二時,にじ,02:00,Practice_Vocabulary Time_(Hours)
+三時,さんじ,03:00,Practice_Vocabulary Time_(Hours)
+四時,よじ,04:00,Practice_Vocabulary Time_(Hours)
+五時,ごじ,05:00,Practice_Vocabulary Time_(Hours)
+六時,ろくじ,06:00,Practice_Vocabulary Time_(Hours)
+七時,しちじ,07:00,Practice_Vocabulary Time_(Hours)
+八時,はちじ,08:00,Practice_Vocabulary Time_(Hours)
+九時,くじ,09:00,Practice_Vocabulary Time_(Hours)
+十時,じゅうじ,10:00,Practice_Vocabulary Time_(Hours)
+十一時,じゅういちじ,11:00,Practice_Vocabulary Time_(Hours)
+十二時,じゅうにじ,12:00,Practice_Vocabulary Time_(Hours)
+一時半,いちじはん,01:30,Practice_Vocabulary Time_(Hours)
+一分,いっぷん,00:01,Time_(Minutes_1-10) Useful_Expressions
+二分,にふん,00:02,Time_(Minutes_1-10) Useful_Expressions
+三分,さんぷん,00:03,Time_(Minutes_1-10) Useful_Expressions
+四分,よんぷん,00:04,Time_(Minutes_1-10) Useful_Expressions
+五分,ごふん,00:05,Time_(Minutes_1-10) Useful_Expressions
+六分,ろっぷん,00:06,Time_(Minutes_1-10) Useful_Expressions
+七分,ななふん,00:07,Time_(Minutes_1-10) Useful_Expressions
+八分／八分,はっぷん／はちふん,00:08,Time_(Minutes_1-10) Useful_Expressions
+九分,きゅうふん,00:09,Time_(Minutes_1-10) Useful_Expressions
+十分,じ(ゅ)っぷん,00:10,Time_(Minutes_1-10) Useful_Expressions
+十一分,じゅういっぷん,00:11,Time_(Minutes_11-30) Useful_Expressions
+十二分,じゅうにふん,00:12,Time_(Minutes_11-30) Useful_Expressions
+十三分,じゅうさんぷん,00:13,Time_(Minutes_11-30) Useful_Expressions
+十四分,じゅうよんぷん,00:14,Time_(Minutes_11-30) Useful_Expressions
+十五分,じゅうごふん,00:15,Time_(Minutes_11-30) Useful_Expressions
+十六分,じゅうろっぷん,00:16,Time_(Minutes_11-30) Useful_Expressions
+十七分,じゅうななふん,00:17,Time_(Minutes_11-30) Useful_Expressions
+十八分／十八分,じゅうはっぷん／じゅうはちふん,00:18,Time_(Minutes_11-30) Useful_Expressions
+十九分,じゅうきゅうふん,00:19,Time_(Minutes_11-30) Useful_Expressions
+二十分,にじ(ゅ)っぷん,00:20,Time_(Minutes_11-30) Useful_Expressions
+三十分,さんじ(ゅ)っぷん,00:30,Time_(Minutes_11-30) Useful_Expressions

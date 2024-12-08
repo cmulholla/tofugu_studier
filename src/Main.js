@@ -7,6 +7,7 @@ import { Link } from 'react-router-dom';
 function Main({setStudySet, studySet}) {
   const [tags, setTags] = useState([]);
   const [tagData, setTagData] = useState([]);
+  const [tagsSelected, setTagsSelected] = useState([]);
 
   const handleFileLoad = (data) => {
     setStudySet(data);
@@ -58,36 +59,52 @@ function Main({setStudySet, studySet}) {
 
   };
 
+  const onCheckboxChange = (e) => {
+    const { value, checked } = e.target;
+    if (checked) {
+      setTagsSelected([...tagsSelected, value]);
+    } else {
+      setTagsSelected(tagsSelected.filter((tag) => tag !== value));
+    }
+  };
+
   // if studySet isn't empty but tags is, then we need to load the data
   if (studySet !== undefined && studySet.length !== 0 && tags.length === 0) {
     handleFileLoad(studySet);
   }
 
   return (
-      <div className="container mt-5">
-      <CSVReader onFileLoaded={handleFileLoad} />
+    <div className="container mt-5">
+      <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+        <CSVReader onFileLoaded={handleFileLoad} />
+        <Link to={`/tag/${tagsSelected}`} disabled={!(tagsSelected.length > 0)}>
+          <button disabled={!(tagsSelected.length > 0)} type="button">
+            Select Tags
+          </button>
+        </Link>
+      </div>
       <table className="table table-striped table-bordered mt-3">
         <thead className="thead-dark">
-        <tr>
-          <th>tags</th>
-          <th># of Elements</th>
-          <th>Example Data</th>
-        </tr>
+          <tr>
+            <th style={{ whiteSpace: 'nowrap' }}>tags</th>
+            <th># of Elements</th>
+            <th>Example Data</th>
+          </tr>
         </thead>
         <tbody>
-        {tags.map((cell, rowIndex) => (
-          <tr key={rowIndex}>
-            <td>
-              <Link to={`/tag/${cell}`}>{cell}</Link>
-            </td>
-            <td>
-              {tagData[rowIndex][1]}
-            </td>
-            <td>
-              {tagData[rowIndex][2]}
-            </td>
-          </tr>
-        ))}
+          {tags.map((cell, rowIndex) => (
+            <tr key={rowIndex}>
+              <td style={{ whiteSpace: 'nowrap' }}>
+                <input type="checkbox" id={cell} name={cell} value={cell} onChange={onCheckboxChange} /> <Link to={`/tag/${cell}`}>{cell}</Link>
+              </td>
+              <td>
+                {tagData[rowIndex][1]}
+              </td>
+              <td>
+                {tagData[rowIndex][2]}
+              </td>
+            </tr>
+          ))}
         </tbody>
       </table>
     </div>

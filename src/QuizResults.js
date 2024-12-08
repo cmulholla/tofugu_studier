@@ -1,5 +1,5 @@
 import React/*, { useState }*/ from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import Table from 'react-bootstrap/Table';
 
 const styles = `
@@ -20,7 +20,7 @@ function QuizResults({ data, quizOptions, Answers}) {
   // for now, print out everything in data, quizOptions, and Answers to the console
   //console.log(data);
   //console.log(quizOptions);
-  console.log(Answers);
+  //console.log(Answers);
 
   const punctuation = /[.,/#!$%^&*;:{}=\-_`~()'"・、。！？「」『』（）［］｛｝〈〉《》【】〔〕]/g;
 
@@ -46,15 +46,13 @@ function QuizResults({ data, quizOptions, Answers}) {
     ) {
       return true;
     }
-    console.log(realAnswer);
-    console.log(realAnswer.toLowerCase().replace(punctuation, '').replace(' ', ''))
-    console.log(userAnswer.toLowerCase().replace(punctuation, '').replace(/ /g, ''))
     return false;
   }
 
   // if data is empty, go back to the main page
   if (data === undefined || data.length === 0) {
     window.location.href = '/';
+    console.log("Error: data is missing");
     console.log(data);
   }
   else {
@@ -96,6 +94,7 @@ function QuizResults({ data, quizOptions, Answers}) {
   // if the front or back column is missing, go back to the main page
   if (frontIndex === -1 || backIndex === -1) {
     window.location.href = '/';
+    console.log("Error: front or back column is missing");
     console.log(quizOptions);
     console.log(colFront, colBack);
   }
@@ -103,17 +102,30 @@ function QuizResults({ data, quizOptions, Answers}) {
   // find the rows in the tag column that contain the tag, and store them in taggedData
   // TODO: instead of assuming a single tag, accept an array of tags
   let taggedData = [];
+
+  let tags = tag.split(",");
+
   for (let i = 1; i < data.length; i++) {
-    if (data[i][tagIndex] === undefined) {
-      continue;
-    }
-    // if any row has an empty cell in the frontIndex or backIndex, skip
-    if (data[i][frontIndex].replace(" ", "") === '' || data[i][backIndex].replace(" ", "") === '') {
-      continue;
-    }
-    let elmTags = data[i][tagIndex].split(" ");
-    if (elmTags.includes(tag)) {
-      taggedData.push(data[i]);
+    for (let j = 0; j < tags.length; j++) {
+      if (data[i][tagIndex] === undefined) {
+        continue;
+      }
+      // if any row has an empty cell in the frontIndex or backIndex, skip
+      if (data[i][frontIndex].replace(/ /g, "") === '' || data[i][backIndex].replace(/ /g, "") === '') {
+        continue;
+      }
+      let dataTags = data[i][tagIndex].split(" ");
+      let pushed = false;
+      for (let k = 0; k < dataTags.length; k++) {
+        if (dataTags[k] === tags[j]) {
+          taggedData.push(data[i]);
+          pushed = true;
+          break;
+        }
+      }
+      if (pushed) {
+        break;
+      }
     }
   }
 
@@ -134,7 +146,7 @@ function QuizResults({ data, quizOptions, Answers}) {
       userAnswer = "";
     }
 
-    console.log(userAnswer, realAnswer)
+    //console.log(userAnswer, realAnswer)
 
     let isCorrect = checkAnswer(userAnswer, realAnswer);
     let correctClass = "notAnswered";
@@ -156,21 +168,36 @@ function QuizResults({ data, quizOptions, Answers}) {
 
   percentage = numTotal === 0 ? 0 : Math.round(numCorrect / numTotal * 100);
 
+  // Scroll to the top of the page
+  window.scrollTo(0, 0);
+
   return (
-    <div>
+    <div style={{ marginTop: '20px' }}>
       <style href={"stylesheet"} precedence="medium">
           {styles}
       </style>
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '10px' }}>
+        <Link to={`/quiz/${tag}`}>
+          <button type="button">
+            Quiz Again
+          </button>
+        </Link>
+        <Link to={`/`}>
+          <button type="button">
+            Home
+          </button>
+        </Link>
+      </div>
       <h1>Quiz Results:</h1>
       <div style={{ display: 'flex', alignItems: 'center' }}>
-        <h3 style={{ marginRight: '5px' }}>{tag}: {numCorrect} out of {numTotal} ({percentage}%)</h3>
+        <h3 style={{ marginRight: '5px' }}>{tag.replace(/,/g, ", ")}: {numCorrect} out of {numTotal} ({percentage}%)</h3>
       </div>
       <Table striped bordered hover>
         <thead>
           <tr>
-            <th>Qustion</th>
+            <th>Question</th>
             <th>Answer</th>
-            <th>User's Answer</th>
+            <th>Your Answer</th>
             <th>Correct?</th>
           </tr>
         </thead>

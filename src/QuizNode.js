@@ -26,15 +26,11 @@ const QuizNode = (({ Question, Answer, quizOptions, Answers, SetAnswers}) => {
     ) {
       return true;
     }
-    console.log(realAnswer);
-    console.log(realAnswer.toLowerCase().replace(punctuation, '').replace(' ', ''))
-    console.log(userAnswer.toLowerCase().replace(punctuation, '').replace(/ /g, ''))
     return false;
   }
 
-  //TODO: change the code to remove isCorrect, isIncorrect, and isAnswered, making everything depend on the correctClass. Have the default be "notAnswered", correct be "correct", and incorrect be "incorrect"
   const handleAnswer = (e) => {
-    //console.log(Answer.toLowerCase().replace(punctuation, '').replace(' ', '') === e.target.value.toLowerCase().replace(punctuation, '').replace(' ', ''));
+    
     if (e.key === 'Enter' && !e.shiftKey) {
       //console.log(quizOptions);
       if (e.target.value === '' || e.target.value === ' ') {

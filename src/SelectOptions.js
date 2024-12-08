@@ -22,25 +22,35 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
   }, [data, setStudySet]);
 
   // find which column the tag is in
-  // TODO: instead of assuming a single tag, accept an array of tags
   let tagIndex = -1;
   for (let i = 0; i < data[0].length; i++) {
     if (data[0][i] === 'tags') {
       tagIndex = i;
-      break;
     }
   }
+
+  let tags = tag.split(",");
 
   // find the rows in the tag column that contain the tag, and store them in taggedData
   // TODO: instead of assuming a single tag, accept an array of tags
   let taggedData = [];
   for (let i = 1; i < data.length; i++) {
-    if (data[i][tagIndex] === undefined) {
-      continue;
-    }
-    let elmTags = data[i][tagIndex].split(" ");
-    if (elmTags.includes(tag)) {
-      taggedData.push(data[i]);
+    for (let j = 0; j < tags.length; j++) {
+      if (data[i][tagIndex] === undefined) {
+        continue;
+      }
+      let dataTags = data[i][tagIndex].split(" ");
+      let pushed = false;
+      for (let k = 0; k < dataTags.length; k++) {
+        if (dataTags[k] === tags[j]) {
+          taggedData.push(data[i]);
+          pushed = true;
+          break;
+        }
+      }
+      if (pushed) {
+        break;
+      }
     }
   }
 
@@ -75,7 +85,7 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
 
       // Set the selected option for the current header
       newOptions[header] = type;
-      console.log(newOptions)
+      //console.log(newOptions)
 
       return newOptions;
     });
@@ -116,10 +126,10 @@ function SelectOptions({ setStudySet, setQuizOptions, data }) {
 
   return (
     <div>
-      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
-        <h1 style={{ marginRight: '10px' }}>Tag: {tag}</h1>
+      <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', flexDirection: 'column' }}>
+        <h1 style={{ marginBottom: '10px' }}>Tags: {tag.replace(/,/g, ", ")}</h1>
         <Link to={`/quiz/${tag}`} disabled={!isQuizReady}>
-          <button disabled={!isQuizReady} type="button">
+          <button style={{ marginBottom: '10px' }} disabled={!isQuizReady} type="button">
             Start Quiz
           </button>
         </Link>
