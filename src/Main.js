@@ -2,8 +2,6 @@ import React, { useState } from 'react';
 import CSVReader from 'react-csv-reader';
 import { Link } from 'react-router-dom';
 
-//TODO: Replace clicking on tag links with checkboxes to the left of the tags, and a button to submit the selected tags to the next page
-
 function Main({setStudySet, studySet}) {
   const [tags, setTags] = useState([]);
   const [tagData, setTagData] = useState([]);
@@ -72,16 +70,30 @@ function Main({setStudySet, studySet}) {
   if (studySet !== undefined && studySet.length !== 0 && tags.length === 0) {
     handleFileLoad(studySet);
   }
+  // if studySet is empty, then load the default data from "https://raw.githubusercontent.com/cmulholla/tofugu_studier/f20c0dd208885b38e48ad8e4887c133386a8e758/tofugu_CSVs/Genki%20lesson%201.csv"
+  else if ((studySet === undefined || studySet.length === 0) && tags.length === 0) {
+    console.log("Loading default data");
+    fetch("https://raw.githubusercontent.com/cmulholla/tofugu_studier/f20c0dd208885b38e48ad8e4887c133386a8e758/tofugu_CSVs/Genki%20lesson%201.csv")
+      .then(response => response.text())
+      .then(text => {
+        let data = text.split('\n').map(row => row.split(','));
+        setStudySet(data);
+        handleFileLoad(data);
+      });
+  }
 
   return (
     <div className="container mt-5">
       <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
         <CSVReader onFileLoaded={handleFileLoad} />
+        <br />
         <Link to={`/tag/${tagsSelected}`} disabled={!(tagsSelected.length > 0)}>
           <button disabled={!(tagsSelected.length > 0)} type="button">
             Select Tags
           </button>
         </Link>
+        <br />
+        <p>Upload a CSV file above, or choose a tag below to begin.</p>
       </div>
       <table className="table table-striped table-bordered mt-3">
         <thead className="thead-dark">
